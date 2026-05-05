@@ -1,0 +1,13 @@
+# Netlify serves /cases when /cases.html exists by default (Pretty URLs).
+# Explicit 301s here redirect the .html variants for canonical URLs.
+/index.html             /                       301!
+/how-we-work.html       /how-we-work            301!
+/cases.html             /cases                  301!
+/team.html              /team                   301!
+/blog.html              /blog                   301!
+/contact.html           /contact                301!
+/privacy.html           /privacy                301!
+/article-template.html  /article-template       301!
+# Old pricing route → how-we-work#pricing
+/pricing.html           /how-we-work#pricing    301!
+/pricing                /how-we-work#pricing    301!

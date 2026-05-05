@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Wenn Output billig wird, wird Urteilskraft teuer — Growth Unltd.</title>
+<meta name="description" content="Ein Kernkapitel aus „Human Signal" in kurzer Form: Warum AI die Arbeit verschiebt, aber nicht die Verantwortung."/>
+<link rel="preconnect" href="https://rsms.me/"/>
+<link rel="stylesheet" href="https://rsms.me/inter/inter.css"/>
+<link rel="stylesheet" href="styles.css?v=8"/>
+</head>
+<body>
+<header class="nav">
+  <div class="shell nav-in">
+    <a href="index.html" class="nav-logo" aria-label="Growth Unltd.">
+      <svg class="logo-svg" viewBox="0 0 1308 168" xmlns="http://www.w3.org/2000/svg"><path d="M346.4 55c-13.7 5.4-20.4 20.3-15.9 35.6 3.6 12.5 14.9 19.3 30.2 18.1 14.9-1.1 23.2-9.1 24.1-23.2l.5-7.5H359v11h4.5c3.1 0 4.5.4 4.5 1.3 0 4.2-10 7.1-15 4.5-7.4-3.9-8.1-20-1.2-26.2 1.4-1.2 3.7-1.9 6.4-1.9 3.5 0 4.7.6 6.8 3.2 2.6 3 2.9 3.1 10.8 3.1h8.2l-.6-2.8c-1.5-6.3-5.8-11.4-12.4-14.8-5.4-2.7-18.2-2.9-24.6-.4m114.3-.4c-7.4 2.3-15 10.2-17.2 17.8-4 13.9 1.1 27.3 12.9 33.4 4.4 2.2 6.4 2.6 14.1 2.7 7.3 0 9.9-.4 14-2.3 10.2-4.7 14.6-11.4 15.3-23.3.6-10.7-1.4-16.5-8-22.4-8-7.1-19.7-9.4-31.1-5.9m14.8 12.8c4.5 1.9 6.5 6.1 6.5 13.6 0 10-3.1 14-11 14-14.3 0-14.5-28.2-.2-28.9.7-.1 2.8.5 4.7 1.3M392 81v27h17v-9.5c0-7.2.3-9.5 1.3-9.5.8 0 3.5 4.1 6.1 9.1 2.7 5 5.4 9.3 6 9.5.7.3 4.9.4 9.4.2l8-.3L434 97l-5.9-10.5 3.3-3c6.9-6.4 7.3-17.1.7-23.6-4.9-4.9-9.1-5.9-25.8-5.9H392zm26.8-12.8c.7.7 1.2 2.6 1.2 4.3 0 4.2-1.6 5.5-6.7 5.5H409V67h4.3c2.4 0 4.8.5 5.5 1.2m85.9.5c1.8 8.2 4.6 20.2 6.2 26.8l2.8 12 8.6.3 8.6.3 1-3.8c.5-2.1 2.2-9.2 3.7-15.7 2-8.5 3-11.4 3.5-10 .4 1 2.2 8.1 3.9 15.6l3.2 13.8h17.4l5.8-25.1c3.2-13.8 6.1-25.9 6.3-27 .5-1.8-.1-1.9-7.6-1.9-4.4 0-8.1.2-8.1.3 0 1.1-6.1 30.1-6.3 30.4-.2.2-1.9-6.5-3.8-14.9l-3.5-15.3-7.5-.3-7.6-.3-2.8 14.3c-1.5 7.9-3.1 14.8-3.4 15.5-.3.6-1.9-5.8-3.5-14.3l-3-15.4h-17.3zm74.3-8.2V67h14v41h17V67h14V54h-45zM630 81v27h18V87h15v21h18V54h-18v20h-15V54h-18zm74.2-7.3c.3 18.1.5 20.2 2.5 24 2.8 5.2 6.3 7.9 12.6 9.8 10.2 3 21.1 1.4 27.5-4.1 6.2-5.3 7.2-9.5 7.2-31.1V54h-17l-.1 16.7c0 10.3-.5 18.2-1.2 20.3-1.1 3.2-1.5 3.5-5.8 3.8-7.8.5-7.9.1-7.9-21.9V54h-18.2zM763 81v27h15.9l.3-15.5.3-15.6 8.5 15.5 8.5 15.5 8.3.1h8.2V54h-14.9l-.3 13.5-.3 13.5-7.2-13.3-7.1-13.2-10.1-.3-10.1-.3zm60 0v27h37V95h-19V54h-18zm35-20.5V67h13v41h18V67h14V54h-45zm51 20.4V108h13.2c16.8 0 23.4-1.7 29.4-7.4 9.1-8.9 10-29.1 1.6-38.3-6.1-6.6-9.9-7.7-27.9-8.1l-16.3-.4zm27-12.4c3.7 1.9 5.3 7 4.8 14.7-.6 7.5-3.4 10.8-10.2 11.5l-4.6.6V67h3.5c2 0 4.9.7 6.5 1.5m27.5 27c-6.3 6.2 1 16 9.4 12.5 2.9-1.2 5.1-4.6 5.1-8.1 0-3.3-4.4-6.9-8.5-6.9-2.5 0-4.4.8-6 2.5" fill="currentColor"/></svg>
+    </a>
+    <div class="nav-spacer"></div>
+    <ul>
+      <li><a href="how-we-work.html">Wie wir arbeiten</a></li>
+      <li><a href="cases.html">Cases</a></li>
+      <li><a href="team.html">Über uns</a></li>
+      <li><a href="blog.html" class="active">Content</a></li>
+    </ul>
+    <div class="nav-divider"></div>
+    <span class="lang">EN <span style="opacity:.4">/</span> <b>DE</b></span>
+    <a class="nav-cta" href="contact.html">Kontakt aufnehmen</a>
+    <button type="button" class="nav-hamburger" id="nav-hamburger" aria-label="Menü"><span></span><span></span><span></span></button>
+  </div>
+</header>
+
+<!-- Mobile Drawer -->
+<div class="mobile-menu" id="mobile-menu" aria-hidden="true">
+  <div class="mob-head">
+    <a href="index.html" class="nav-logo"><svg class="logo-svg" viewBox="0 0 1308 168" xmlns="http://www.w3.org/2000/svg"><path d="M346.4 55c-13.7 5.4-20.4 20.3-15.9 35.6 3.6 12.5 14.9 19.3 30.2 18.1 14.9-1.1 23.2-9.1 24.1-23.2l.5-7.5H359v11h4.5c3.1 0 4.5.4 4.5 1.3 0 4.2-10 7.1-15 4.5-7.4-3.9-8.1-20-1.2-26.2 1.4-1.2 3.7-1.9 6.4-1.9 3.5 0 4.7.6 6.8 3.2 2.6 3 2.9 3.1 10.8 3.1h8.2l-.6-2.8c-1.5-6.3-5.8-11.4-12.4-14.8-5.4-2.7-18.2-2.9-24.6-.4m114.3-.4c-7.4 2.3-15 10.2-17.2 17.8-4 13.9 1.1 27.3 12.9 33.4 4.4 2.2 6.4 2.6 14.1 2.7 7.3 0 9.9-.4 14-2.3 10.2-4.7 14.6-11.4 15.3-23.3.6-10.7-1.4-16.5-8-22.4-8-7.1-19.7-9.4-31.1-5.9m14.8 12.8c4.5 1.9 6.5 6.1 6.5 13.6 0 10-3.1 14-11 14-14.3 0-14.5-28.2-.2-28.9.7-.1 2.8.5 4.7 1.3M392 81v27h17v-9.5c0-7.2.3-9.5 1.3-9.5.8 0 3.5 4.1 6.1 9.1 2.7 5 5.4 9.3 6 9.5.7.3 4.9.4 9.4.2l8-.3L434 97l-5.9-10.5 3.3-3c6.9-6.4 7.3-17.1.7-23.6-4.9-4.9-9.1-5.9-25.8-5.9H392zm26.8-12.8c.7.7 1.2 2.6 1.2 4.3 0 4.2-1.6 5.5-6.7 5.5H409V67h4.3c2.4 0 4.8.5 5.5 1.2m85.9.5c1.8 8.2 4.6 20.2 6.2 26.8l2.8 12 8.6.3 8.6.3 1-3.8c.5-2.1 2.2-9.2 3.7-15.7 2-8.5 3-11.4 3.5-10 .4 1 2.2 8.1 3.9 15.6l3.2 13.8h17.4l5.8-25.1c3.2-13.8 6.1-25.9 6.3-27 .5-1.8-.1-1.9-7.6-1.9-4.4 0-8.1.2-8.1.3 0 1.1-6.1 30.1-6.3 30.4-.2.2-1.9-6.5-3.8-14.9l-3.5-15.3-7.5-.3-7.6-.3-2.8 14.3c-1.5 7.9-3.1 14.8-3.4 15.5-.3.6-1.9-5.8-3.5-14.3l-3-15.4h-17.3zm74.3-8.2V67h14v41h17V67h14V54h-45zM630 81v27h18V87h15v21h18V54h-18v20h-15V54h-18zm74.2-7.3c.3 18.1.5 20.2 2.5 24 2.8 5.2 6.3 7.9 12.6 9.8 10.2 3 21.1 1.4 27.5-4.1 6.2-5.3 7.2-9.5 7.2-31.1V54h-17l-.1 16.7c0 10.3-.5 18.2-1.2 20.3-1.1 3.2-1.5 3.5-5.8 3.8-7.8.5-7.9.1-7.9-21.9V54h-18.2zM763 81v27h15.9l.3-15.5.3-15.6 8.5 15.5 8.5 15.5 8.3.1h8.2V54h-14.9l-.3 13.5-.3 13.5-7.2-13.3-7.1-13.2-10.1-.3-10.1-.3zm60 0v27h37V95h-19V54h-18zm35-20.5V67h13v41h18V67h14V54h-45zm51 20.4V108h13.2c16.8 0 23.4-1.7 29.4-7.4 9.1-8.9 10-29.1 1.6-38.3-6.1-6.6-9.9-7.7-27.9-8.1l-16.3-.4zm27-12.4c3.7 1.9 5.3 7 4.8 14.7-.6 7.5-3.4 10.8-10.2 11.5l-4.6.6V67h3.5c2 0 4.9.7 6.5 1.5m27.5 27c-6.3 6.2 1 16 9.4 12.5 2.9-1.2 5.1-4.6 5.1-8.1 0-3.3-4.4-6.9-8.5-6.9-2.5 0-4.4.8-6 2.5" fill="currentColor"/></svg></a>
+    <button type="button" class="mob-close" id="mob-close" aria-label="Schliessen">×</button>
+  </div>
+  <nav>
+    <a href="how-we-work.html">Wie wir arbeiten</a>
+    <a href="cases.html">Cases</a>
+    <a href="team.html">Über uns</a>
+    <a href="blog.html">Content</a>
+  </nav>
+  <div class="mob-foot">
+    <a class="nav-cta" href="contact.html">Kontakt aufnehmen</a>
+  </div>
+</div>
+
+<article class="article">
+  <div class="article-shell">
+    <div class="meta-row">
+      <span class="cat">Human Signal · Boris</span>
+      <span>·</span>
+      <span>24. Apr 2026</span>
+      <span>·</span>
+      <span>5 Min. Lesezeit</span>
+    </div>
+
+    <h1>Wenn Output billig wird,<br/>wird Urteilskraft teuer.</h1>
+
+    <p class="lede">
+      Ein Kernkapitel aus dem Buch „Human Signal" in kurzer Form: Warum AI die Arbeit verschiebt, aber nicht die Verantwortung, und was das praktisch für Führungs­teams bedeutet, die ihr Geschäft schützen wollen.
+    </p>
+
+    <div class="body">
+      <p>(Platzhalter-Text. wird durch echten ersten Beitrag ersetzt.)</p>
+
+      <p>In den letzten zwölf Monaten ist eine Sache in fast allen Kunden­projekten gleich­zeitig passiert: die Kosten, eine erste Version von etwas zu erstellen. einen Marketing-Text, einen Vertrags­entwurf, eine Markt­analyse, einen Code-Prototyp. sind dramatisch gefallen. Was vorher Tage gekostet hat, kostet jetzt Stunden. Was Stunden kostete, kostet Minuten.</p>
+
+      <p>Die naive Reaktion in vielen Organisationen ist Erleichterung: „Endlich mehr Zeit für das Wesentliche." Die zweite, ehrlichere Reaktion lautet: <i>Was ist eigentlich das Wesentliche?</i></p>
+
+      <h2>Die Verschiebung der Knappheit</h2>
+
+      <p>Wenn die Erstellung billig wird, wird das, was übrig bleibt, knapp. Das, was übrig bleibt, ist Urteils­kraft: Welche Optionen sind tragfähig, welche sind ablenkende Möglichkeiten? Welche Markt­bewegung ist Signal, welche Rauschen? Welche der zehn AI-generierten Strategie­entwürfe spiegelt unsere Realität, welche ist Generik?</p>
+
+      <blockquote>
+        Output ist nicht mehr Engpass. Urteils­kraft ist es.
+      </blockquote>
+
+      <p>Diese Verschiebung erklärt, warum manche Organisationen mit AI dramatisch produktiver werden, und andere nur dramatisch produktiver an den falschen Dingen.</p>
+
+      <h2>Drei praktische Konsequenzen für Führungs­teams</h2>
+
+      <ol>
+        <li><b>Bewertung wird zur Kern-Disziplin.</b> Nicht: schneller produzieren. Sondern: schneller (und besser) entscheiden, was es überhaupt wert ist, produziert zu werden.</li>
+        <li><b>Geteiltes Verständnis muss steigen.</b> Wenn jeder im Team Zugang zu unbegrenztem Output hat, muss die geteilte Sicht auf Prioritäten extrem klar sein. sonst läuft die Organisation in viele Richtungen gleichzeitig schnell.</li>
+        <li><b>Führungs­arbeit wird konkreter, nicht abstrakter.</b> Die Versuchung ist gross, sich in den Tools zu verlieren. Die Arbeit ist genau die andere: dichter beim Kontext, näher an den Kunden, expliziter in den eigenen Annahmen.</li>
+      </ol>
+
+      <h2>Was es jetzt braucht</h2>
+
+      <p>Ein gutes Mass dafür, ob ein Führungs­team auf diese Verschiebung reagiert hat, ist die Antwort auf eine einzige Frage: <i>Worüber streiten wir, wenn wir gut zusammen­arbeiten?</i></p>
+
+      <p>Wenn die Antwort lautet „über Output, Geschwindigkeit, Auslastung". dann ist das Team noch im alten Modell. Wenn sie lautet „über Annahmen, Prioritäten, Trade-offs". dann ist es im neuen.</p>
+
+      <p>Genau dieser Übergang ist die Arbeit, die wir bei Growth Unltd. mit Führungs­teams machen. Diagnose, dann Implementierung. Werkzeuge dort, wo sie konkret helfen. Diskussion dort, wo sie das Team weiterbringt.</p>
+    </div>
+
+    <div class="article-author">
+      <div class="avatar"><img src="/images/boris-manhart.jpg" alt="Boris Manhart"/></div>
+      <div>
+        <div class="name">Boris Manhart</div>
+        <div class="role">Co-Founder Growth Unltd. · Autor „Human Signal"</div>
+      </div>
+    </div>
+
+    <div style="margin-top:50px;padding-top:30px;border-top:1px solid rgba(17,17,17,.1);display:flex;gap:14px;flex-wrap:wrap;align-items:center;justify-content:space-between">
+      <a class="btn ghost" href="blog.html">← Alle Beiträge</a>
+      <a class="btn primary" href="contact.html">Gespräch anfragen <span class="arrow">→</span></a>
+    </div>
+  </div>
+</article>
+
+<footer>
+  <div class="shell">
+    <div class="foot-grid">
+      <div class="foot-brand">
+        <svg class="logo-svg" viewBox="0 0 1308 168" xmlns="http://www.w3.org/2000/svg"><path d="M346.4 55c-13.7 5.4-20.4 20.3-15.9 35.6 3.6 12.5 14.9 19.3 30.2 18.1 14.9-1.1 23.2-9.1 24.1-23.2l.5-7.5H359v11h4.5c3.1 0 4.5.4 4.5 1.3 0 4.2-10 7.1-15 4.5-7.4-3.9-8.1-20-1.2-26.2 1.4-1.2 3.7-1.9 6.4-1.9 3.5 0 4.7.6 6.8 3.2 2.6 3 2.9 3.1 10.8 3.1h8.2l-.6-2.8c-1.5-6.3-5.8-11.4-12.4-14.8-5.4-2.7-18.2-2.9-24.6-.4m114.3-.4c-7.4 2.3-15 10.2-17.2 17.8-4 13.9 1.1 27.3 12.9 33.4 4.4 2.2 6.4 2.6 14.1 2.7 7.3 0 9.9-.4 14-2.3 10.2-4.7 14.6-11.4 15.3-23.3.6-10.7-1.4-16.5-8-22.4-8-7.1-19.7-9.4-31.1-5.9m14.8 12.8c4.5 1.9 6.5 6.1 6.5 13.6 0 10-3.1 14-11 14-14.3 0-14.5-28.2-.2-28.9.7-.1 2.8.5 4.7 1.3M392 81v27h17v-9.5c0-7.2.3-9.5 1.3-9.5.8 0 3.5 4.1 6.1 9.1 2.7 5 5.4 9.3 6 9.5.7.3 4.9.4 9.4.2l8-.3L434 97l-5.9-10.5 3.3-3c6.9-6.4 7.3-17.1.7-23.6-4.9-4.9-9.1-5.9-25.8-5.9H392zm26.8-12.8c.7.7 1.2 2.6 1.2 4.3 0 4.2-1.6 5.5-6.7 5.5H409V67h4.3c2.4 0 4.8.5 5.5 1.2m85.9.5c1.8 8.2 4.6 20.2 6.2 26.8l2.8 12 8.6.3 8.6.3 1-3.8c.5-2.1 2.2-9.2 3.7-15.7 2-8.5 3-11.4 3.5-10 .4 1 2.2 8.1 3.9 15.6l3.2 13.8h17.4l5.8-25.1c3.2-13.8 6.1-25.9 6.3-27 .5-1.8-.1-1.9-7.6-1.9-4.4 0-8.1.2-8.1.3 0 1.1-6.1 30.1-6.3 30.4-.2.2-1.9-6.5-3.8-14.9l-3.5-15.3-7.5-.3-7.6-.3-2.8 14.3c-1.5 7.9-3.1 14.8-3.4 15.5-.3.6-1.9-5.8-3.5-14.3l-3-15.4h-17.3zm74.3-8.2V67h14v41h17V67h14V54h-45zM630 81v27h18V87h15v21h18V54h-18v20h-15V54h-18zm74.2-7.3c.3 18.1.5 20.2 2.5 24 2.8 5.2 6.3 7.9 12.6 9.8 10.2 3 21.1 1.4 27.5-4.1 6.2-5.3 7.2-9.5 7.2-31.1V54h-17l-.1 16.7c0 10.3-.5 18.2-1.2 20.3-1.1 3.2-1.5 3.5-5.8 3.8-7.8.5-7.9.1-7.9-21.9V54h-18.2zM763 81v27h15.9l.3-15.5.3-15.6 8.5 15.5 8.5 15.5 8.3.1h8.2V54h-14.9l-.3 13.5-.3 13.5-7.2-13.3-7.1-13.2-10.1-.3-10.1-.3zm60 0v27h37V95h-19V54h-18zm35-20.5V67h13v41h18V67h14V54h-45zm51 20.4V108h13.2c16.8 0 23.4-1.7 29.4-7.4 9.1-8.9 10-29.1 1.6-38.3-6.1-6.6-9.9-7.7-27.9-8.1l-16.3-.4zm27-12.4c3.7 1.9 5.3 7 4.8 14.7-.6 7.5-3.4 10.8-10.2 11.5l-4.6.6V67h3.5c2 0 4.9.7 6.5 1.5m27.5 27c-6.3 6.2 1 16 9.4 12.5 2.9-1.2 5.1-4.6 5.1-8.1 0-3.3-4.4-6.9-8.5-6.9-2.5 0-4.4.8-6 2.5" fill="currentColor"/></svg>
+        <p>Strategie-Sparring, Führung und Implementierung, nah an Entscheidungen.</p>
+      </div>
+      <div>
+        <h5>Arbeit</h5>
+        <ul><li><a href="how-we-work.html">Wie wir arbeiten</a></li><li><a href="cases.html">Cases</a></li></ul>
+      </div>
+      <div>
+        <h5>Über</h5>
+        <ul><li><a href="team.html">Team</a></li><li><a href="blog.html">Content</a></li><li><a href="contact.html">Kontakt</a></li></ul>
+      </div>
+      <div>
+        <h5>Kontakt</h5>
+        <ul>
+          <li><a data-email="hello|growthunltd.com">hello [at] growthunltd [dot] com</a></li>
+          <li>Zürich, Schweiz</li>
+          <li><a href="/llms.txt">llms.txt</a> · <a href="/context.md">context.md</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="foot-bottom">
+      <span>© 2026 Growth Unltd.</span>
+      <span><a href="privacy.html">Privacy Policy</a> · <a href="contact.html">Impressum</a></span>
+    </div>
+  </div>
+</footer>
+
+<div class="cookie-banner" id="cookie-banner" role="dialog" aria-label="Cookie-Einstellungen">
+  <p>Wir nutzen nur essentielle Cookies, um Grundfunktionen sicherzustellen. Keine Tracker, kein Marketing-Pixel. Mehr in unserer <a href="privacy.html">Privacy-Policy</a>.</p>
+  <div class="cookie-actions">
+    <button class="accept">OK, verstanden</button>
+    <button class="reject">Nur essentielle</button>
+  </div>
+</div>
+
+<script src="app.js?v=8"></script>
+</body>
+</html>

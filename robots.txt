@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# LLM-friendly manifest
+Sitemap: https://growthunltd.com/sitemap.xml

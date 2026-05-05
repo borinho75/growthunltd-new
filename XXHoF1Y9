@@ -1,0 +1,426 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+<title>Growth Unltd. — Product-Market Fit verteidigen, wenn AI die Regeln verändert.</title>
+<meta name="description" content="Growth Unltd. ist der Strategie-Sparring-Partner für Führungsteams, deren Markt sich verschiebt — und die ihr Produkt, ihre Organisation und ihre Geschwindigkeit neu ausrichten müssen." />
+<link rel="preconnect" href="https://rsms.me/" />
+<link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
+<link rel="stylesheet" href="styles.css?v=7" />
+</head>
+<body>
+
+<!-- NAV -->
+<header class="nav">
+  <div class="shell nav-in">
+    <a href="index.html" class="nav-logo" aria-label="Growth Unltd.">
+      <svg class="logo-svg" viewBox="0 0 1308 168" xmlns="http://www.w3.org/2000/svg"><path d="M346.4 55c-13.7 5.4-20.4 20.3-15.9 35.6 3.6 12.5 14.9 19.3 30.2 18.1 14.9-1.1 23.2-9.1 24.1-23.2l.5-7.5H359v11h4.5c3.1 0 4.5.4 4.5 1.3 0 4.2-10 7.1-15 4.5-7.4-3.9-8.1-20-1.2-26.2 1.4-1.2 3.7-1.9 6.4-1.9 3.5 0 4.7.6 6.8 3.2 2.6 3 2.9 3.1 10.8 3.1h8.2l-.6-2.8c-1.5-6.3-5.8-11.4-12.4-14.8-5.4-2.7-18.2-2.9-24.6-.4m114.3-.4c-7.4 2.3-15 10.2-17.2 17.8-4 13.9 1.1 27.3 12.9 33.4 4.4 2.2 6.4 2.6 14.1 2.7 7.3 0 9.9-.4 14-2.3 10.2-4.7 14.6-11.4 15.3-23.3.6-10.7-1.4-16.5-8-22.4-8-7.1-19.7-9.4-31.1-5.9m14.8 12.8c4.5 1.9 6.5 6.1 6.5 13.6 0 10-3.1 14-11 14-14.3 0-14.5-28.2-.2-28.9.7-.1 2.8.5 4.7 1.3M392 81v27h17v-9.5c0-7.2.3-9.5 1.3-9.5.8 0 3.5 4.1 6.1 9.1 2.7 5 5.4 9.3 6 9.5.7.3 4.9.4 9.4.2l8-.3L434 97l-5.9-10.5 3.3-3c6.9-6.4 7.3-17.1.7-23.6-4.9-4.9-9.1-5.9-25.8-5.9H392zm26.8-12.8c.7.7 1.2 2.6 1.2 4.3 0 4.2-1.6 5.5-6.7 5.5H409V67h4.3c2.4 0 4.8.5 5.5 1.2m85.9.5c1.8 8.2 4.6 20.2 6.2 26.8l2.8 12 8.6.3 8.6.3 1-3.8c.5-2.1 2.2-9.2 3.7-15.7 2-8.5 3-11.4 3.5-10 .4 1 2.2 8.1 3.9 15.6l3.2 13.8h17.4l5.8-25.1c3.2-13.8 6.1-25.9 6.3-27 .5-1.8-.1-1.9-7.6-1.9-4.4 0-8.1.2-8.1.3 0 1.1-6.1 30.1-6.3 30.4-.2.2-1.9-6.5-3.8-14.9l-3.5-15.3-7.5-.3-7.6-.3-2.8 14.3c-1.5 7.9-3.1 14.8-3.4 15.5-.3.6-1.9-5.8-3.5-14.3l-3-15.4h-17.3zm74.3-8.2V67h14v41h17V67h14V54h-45zM630 81v27h18V87h15v21h18V54h-18v20h-15V54h-18zm74.2-7.3c.3 18.1.5 20.2 2.5 24 2.8 5.2 6.3 7.9 12.6 9.8 10.2 3 21.1 1.4 27.5-4.1 6.2-5.3 7.2-9.5 7.2-31.1V54h-17l-.1 16.7c0 10.3-.5 18.2-1.2 20.3-1.1 3.2-1.5 3.5-5.8 3.8-7.8.5-7.9.1-7.9-21.9V54h-18.2zM763 81v27h15.9l.3-15.5.3-15.6 8.5 15.5 8.5 15.5 8.3.1h8.2V54h-14.9l-.3 13.5-.3 13.5-7.2-13.3-7.1-13.2-10.1-.3-10.1-.3zm60 0v27h37V95h-19V54h-18zm35-20.5V67h13v41h18V67h14V54h-45zm51 20.4V108h13.2c16.8 0 23.4-1.7 29.4-7.4 9.1-8.9 10-29.1 1.6-38.3-6.1-6.6-9.9-7.7-27.9-8.1l-16.3-.4zm27-12.4c3.7 1.9 5.3 7 4.8 14.7-.6 7.5-3.4 10.8-10.2 11.5l-4.6.6V67h3.5c2 0 4.9.7 6.5 1.5m27.5 27c-6.3 6.2 1 16 9.4 12.5 2.9-1.2 5.1-4.6 5.1-8.1 0-3.3-4.4-6.9-8.5-6.9-2.5 0-4.4.8-6 2.5" fill="currentColor"/></svg>
+    </a>
+    <div class="nav-spacer"></div>
+    <ul>
+      <li><a href="how-we-work.html">Wie wir arbeiten</a></li>
+      <li><a href="cases.html">Cases</a></li>
+      <li><a href="team.html">Über uns</a></li>
+      <li><a href="blog.html">Content</a></li>
+    </ul>
+    <div class="nav-divider"></div>
+    <span class="lang">EN <span style="opacity:.4">/</span> <b>DE</b></span>
+    <a class="nav-cta" href="contact.html">Kontakt aufnehmen</a>
+    <button type="button" class="nav-hamburger" id="nav-hamburger" aria-label="Menü"><span></span><span></span><span></span></button>
+  </div>
+</header>
+
+<!-- Mobile Drawer -->
+<div class="mobile-menu" id="mobile-menu" aria-hidden="true">
+  <div class="mob-head">
+    <a href="index.html" class="nav-logo"><svg class="logo-svg" viewBox="0 0 1308 168" xmlns="http://www.w3.org/2000/svg"><path d="M346.4 55c-13.7 5.4-20.4 20.3-15.9 35.6 3.6 12.5 14.9 19.3 30.2 18.1 14.9-1.1 23.2-9.1 24.1-23.2l.5-7.5H359v11h4.5c3.1 0 4.5.4 4.5 1.3 0 4.2-10 7.1-15 4.5-7.4-3.9-8.1-20-1.2-26.2 1.4-1.2 3.7-1.9 6.4-1.9 3.5 0 4.7.6 6.8 3.2 2.6 3 2.9 3.1 10.8 3.1h8.2l-.6-2.8c-1.5-6.3-5.8-11.4-12.4-14.8-5.4-2.7-18.2-2.9-24.6-.4m114.3-.4c-7.4 2.3-15 10.2-17.2 17.8-4 13.9 1.1 27.3 12.9 33.4 4.4 2.2 6.4 2.6 14.1 2.7 7.3 0 9.9-.4 14-2.3 10.2-4.7 14.6-11.4 15.3-23.3.6-10.7-1.4-16.5-8-22.4-8-7.1-19.7-9.4-31.1-5.9m14.8 12.8c4.5 1.9 6.5 6.1 6.5 13.6 0 10-3.1 14-11 14-14.3 0-14.5-28.2-.2-28.9.7-.1 2.8.5 4.7 1.3M392 81v27h17v-9.5c0-7.2.3-9.5 1.3-9.5.8 0 3.5 4.1 6.1 9.1 2.7 5 5.4 9.3 6 9.5.7.3 4.9.4 9.4.2l8-.3L434 97l-5.9-10.5 3.3-3c6.9-6.4 7.3-17.1.7-23.6-4.9-4.9-9.1-5.9-25.8-5.9H392zm26.8-12.8c.7.7 1.2 2.6 1.2 4.3 0 4.2-1.6 5.5-6.7 5.5H409V67h4.3c2.4 0 4.8.5 5.5 1.2m85.9.5c1.8 8.2 4.6 20.2 6.2 26.8l2.8 12 8.6.3 8.6.3 1-3.8c.5-2.1 2.2-9.2 3.7-15.7 2-8.5 3-11.4 3.5-10 .4 1 2.2 8.1 3.9 15.6l3.2 13.8h17.4l5.8-25.1c3.2-13.8 6.1-25.9 6.3-27 .5-1.8-.1-1.9-7.6-1.9-4.4 0-8.1.2-8.1.3 0 1.1-6.1 30.1-6.3 30.4-.2.2-1.9-6.5-3.8-14.9l-3.5-15.3-7.5-.3-7.6-.3-2.8 14.3c-1.5 7.9-3.1 14.8-3.4 15.5-.3.6-1.9-5.8-3.5-14.3l-3-15.4h-17.3zm74.3-8.2V67h14v41h17V67h14V54h-45zM630 81v27h18V87h15v21h18V54h-18v20h-15V54h-18zm74.2-7.3c.3 18.1.5 20.2 2.5 24 2.8 5.2 6.3 7.9 12.6 9.8 10.2 3 21.1 1.4 27.5-4.1 6.2-5.3 7.2-9.5 7.2-31.1V54h-17l-.1 16.7c0 10.3-.5 18.2-1.2 20.3-1.1 3.2-1.5 3.5-5.8 3.8-7.8.5-7.9.1-7.9-21.9V54h-18.2zM763 81v27h15.9l.3-15.5.3-15.6 8.5 15.5 8.5 15.5 8.3.1h8.2V54h-14.9l-.3 13.5-.3 13.5-7.2-13.3-7.1-13.2-10.1-.3-10.1-.3zm60 0v27h37V95h-19V54h-18zm35-20.5V67h13v41h18V67h14V54h-45zm51 20.4V108h13.2c16.8 0 23.4-1.7 29.4-7.4 9.1-8.9 10-29.1 1.6-38.3-6.1-6.6-9.9-7.7-27.9-8.1l-16.3-.4zm27-12.4c3.7 1.9 5.3 7 4.8 14.7-.6 7.5-3.4 10.8-10.2 11.5l-4.6.6V67h3.5c2 0 4.9.7 6.5 1.5m27.5 27c-6.3 6.2 1 16 9.4 12.5 2.9-1.2 5.1-4.6 5.1-8.1 0-3.3-4.4-6.9-8.5-6.9-2.5 0-4.4.8-6 2.5" fill="currentColor"/></svg></a>
+    <button type="button" class="mob-close" id="mob-close" aria-label="Schliessen">×</button>
+  </div>
+  <nav>
+    <a href="how-we-work.html">Wie wir arbeiten</a>
+    <a href="cases.html">Cases</a>
+    <a href="team.html">Über uns</a>
+    <a href="blog.html">Content</a>
+  </nav>
+  <div class="mob-foot">
+    <a class="nav-cta" href="contact.html">Kontakt aufnehmen</a>
+  </div>
+</div>
+
+<!-- HERO -->
+<section class="hero">
+  <canvas id="signalCanvas" aria-hidden="true"></canvas>
+  <div class="shell hero-grid">
+    <div class="hero-left">
+      <h1>Product-Market Fit<br/>verteidigen, <em>wenn AI</em><br/>die Regeln verändert.</h1>
+      <div class="below-h1"><span class="dot"></span>Strategie-Sparring · Führung · Implementierung</div>
+      <p class="hero-sub">
+        Growth Unltd. arbeitet mit Führungsteams, deren Markt sich verschiebt — und die ihr Produkt, ihre Organisation und ihre Geschwindigkeit neu ausrichten müssen. Bevor es jemand anders tut.
+      </p>
+      <div class="hero-ctas">
+        <a class="btn primary" href="contact.html">
+          Kontakt aufnehmen <span class="arrow">→</span>
+        </a>
+        <a class="btn ghost" href="how-we-work.html">Wie wir arbeiten</a>
+      </div>
+    </div>
+
+    <div class="hero-right" id="signalCheck">
+      <div class="checkcard">
+        <div class="check-head">
+          <span class="title">Signal Check</span>
+          <span class="pulse"><span class="ring"></span>Live</span>
+        </div>
+
+        <!-- INTRO -->
+        <div class="sc-intro" id="sc-intro">
+          <div style="font-size:24px;font-weight:800;line-height:1.15;letter-spacing:-.02em;color:var(--ink);margin-bottom:14px">Wo steht Ihre Organisation gerade?</div>
+          <p style="font-size:15px;line-height:1.55;color:var(--ink-2)">Vier Fragen entlang der Dimensionen, die wir in jedem Mandat zuerst prüfen. Am Ende ein Profil zum Mitnehmen.</p>
+          <div style="margin-top:22px;display:flex;flex-wrap:wrap;gap:8px">
+            <span class="sc-pill">Marktklarheit</span>
+            <span class="sc-pill">Fokus</span>
+            <span class="sc-pill">Geschwindigkeit</span>
+            <span class="sc-pill">Umsetzung</span>
+          </div>
+          <div style="margin-top:24px;display:flex;gap:12px;align-items:center;justify-content:space-between;flex-wrap:wrap">
+            <span style="font-size:12px;color:var(--stone)">Anonym · 3 Minuten · kein Login</span>
+            <button type="button" class="runbtn" id="sc-start"><span class="spark"></span>Check starten</button>
+          </div>
+        </div>
+
+        <!-- PROGRESS + STEPS -->
+        <div class="sc-progress" id="sc-progress" style="display:none" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span></div>
+        <div class="sc-steps-wrap" id="sc-steps-wrap" style="display:none">
+          <div class="sc-step"></div>
+          <div class="sc-step"></div>
+          <div class="sc-step"></div>
+          <div class="sc-step"></div>
+          <div class="sc-step"></div>
+        </div>
+
+        <div class="sc-nav" id="sc-nav" style="display:none">
+          <button type="button" class="back" id="sc-back" disabled>← Zurück</button>
+          <div style="display:flex;align-items:center;gap:14px">
+            <button type="button" class="skip" id="sc-skip" style="display:none">Überspringen</button>
+            <button type="button" class="next" id="sc-next"><span class="lbl">Weiter</span> <span class="arrow">→</span></button>
+          </div>
+        </div>
+
+        <!-- RESULT -->
+        <div class="sc-result-card" id="sc-result" style="display:none">
+          <div class="res-head" style="margin-bottom:12px">
+            <span class="tag">Ihr Signal-Profil</span>
+          </div>
+          <div class="sc-result-grid" id="sc-grid"></div>
+          <div class="sc-summary"><div class="lbl">Einschätzung</div><p id="sc-summary"></p></div>
+          <div class="res-cta" style="display:flex;gap:10px;flex-wrap:wrap">
+            <a class="btn primary" href="contact.html">Resultat teilen · Kontakt aufnehmen <span class="arrow">→</span></a>
+            <a class="btn ghost" href="how-we-work.html">Wie wir arbeiten</a>
+          </div>
+          <div style="margin-top:14px;font-size:12px;color:var(--stone)">Ihr Resultat liegt nur lokal im Browser. Sie entscheiden, ob Sie es mit uns teilen.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="shell">
+    <div class="agentblock" role="region" aria-label="For agents and LLMs">
+      <div>
+        <b style="color:var(--ink)">Für Agents &amp; LLMs:</b>
+        Maschinenlesbar hinterlegt sind <code>/llms.txt</code>, <code>/context.md</code> und Markdown-Mirrors aller Seiten.
+      </div>
+      <div>
+        <a href="/llms.txt">llms.txt</a> &nbsp;·&nbsp; <a href="/context.md">context.md</a> &nbsp;·&nbsp; <a href="/prompt">Prompt öffnen</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- TRUST LAYER -->
+<section class="trust" aria-label="Vertrauen">
+  <div class="shell">
+    <div class="trust-eyebrow">Vertraut von führenden Institutionen</div>
+    <div class="trust-row">
+      <span class="trust-item">IMD</span>
+      <span class="trust-item">Innosuisse</span>
+      <span class="trust-item">peakora</span>
+      <span class="trust-item">QAI Ventures</span>
+      <span class="trust-item">InnoQube</span>
+      <span class="trust-item">zhaw</span>
+    </div>
+  </div>
+</section>
+
+<!-- REBOOT -->
+<section class="reboot" id="reboot">
+  <div class="shell">
+    <div class="sec-head">
+      <div class="eyebrow" style="color:rgba(244,243,239,.65)"><span class="dot"></span>Reboot</div>
+      <h2>Wir setzen das Betriebssystem<br/>Ihrer Organisation neu auf.</h2>
+      <p>Nicht als Beratungsprojekt. Als Implementierung im laufenden Betrieb. Manchmal, um eine Organisation wieder handlungs­fähig zu machen. Manchmal, um eine gut laufende auf den kommenden Wandel vorzubereiten. Ziel in beiden Fällen: ausgerichtet auf das, was zählt, und zukunftsfähig für das, was kommt.</p>
+    </div>
+
+    <div class="pillars">
+      <div class="pillar">
+        <div class="ix">01</div>
+        <h3>Handlungsfähig</h3>
+        <p>Entscheidungen in Stunden statt Wochen. Wir installieren den Rhythmus, in dem das Team konsequent vorwärts­kommt.</p>
+        <div class="meta-tag">Rhythmus · Entscheidungen · Ownership</div>
+      </div>
+      <div class="pillar">
+        <div class="ix">02</div>
+        <h3>Ausgerichtet</h3>
+        <p>Geteilte Sicht auf das, was wichtig ist, und was Rauschen. Wir lesen Marktsignale gemeinsam mit dem Führungsteam.</p>
+        <div class="meta-tag">Fokus · Marktsignale · Alignment</div>
+      </div>
+      <div class="pillar">
+        <div class="ix">03</div>
+        <h3>Zukunftsfähig</h3>
+        <p>Werkzeuge und Routinen, die mit­lernen, wenn sich der Markt verschiebt, und ein Team, das ohne uns weiterläuft.</p>
+        <div class="meta-tag">Resilienz · Lernen · Eigenständigkeit</div>
+      </div>
+    </div>
+
+    <div class="tool-mention">
+      <b>Und unser Handwerk?</b> Wir setzen moderne Werkzeuge. auch AI dort ein, wo sie konkrete Arbeit erleichtern. In der Delivery. Ergebnis­fokussiert, ohne Buzzword-Inflation.
+    </div>
+  </div>
+</section>
+
+<!-- HOW WE WORK - DESCRIPTIVE -->
+<section class="how" id="how">
+  <div class="shell">
+    <div class="sec-title-row">
+      <div>
+        <div class="eyebrow"><span class="dot"></span>Wie wir arbeiten</div>
+        <h2 style="margin-top:12px;max-width:680px">Nah an Entscheidungen.<br/>Mit Deck, wo es hilft —<br/>nie als Selbstzweck.</h2>
+      </div>
+      <a class="link" href="how-we-work.html">Tiefer einsteigen →</a>
+    </div>
+
+    <div class="principles">
+      <div class="principle">
+        <div class="ix">Prinzip 01</div>
+        <h3>Implementierung, nicht Beratung</h3>
+        <p>Keine Empfehlungen zum Abheften. Wir sind im Raum, wenn entschieden wird, und bauen mit.</p>
+      </div>
+      <div class="principle">
+        <div class="ix">Prinzip 02</div>
+        <h3>Schonungslose Diagnose</h3>
+        <p>Bevor wir bewegen, schauen wir hin. Bezahlt, nicht geschenkt. ehrlicher Blick ist ein Produkt.</p>
+      </div>
+      <div class="principle">
+        <div class="ix">Prinzip 03</div>
+        <h3>Duo statt Pyramide</h3>
+        <p>Zwei Unternehmer, die selbst Unternehmen aufgebaut haben. Keine ausgedünnte Junior­mannschaft.</p>
+      </div>
+      <div class="principle">
+        <div class="ix">Prinzip 04</div>
+        <h3>Werkzeuge statt endlose Folien</h3>
+        <p>Decks, wo sie helfen. Was bleibt, sind Dashboards, Workflows und Entscheidungs­rahmen.</p>
+      </div>
+      <div class="principle">
+        <div class="ix">Prinzip 05</div>
+        <h3>Rhythmus, nicht Retreat</h3>
+        <p>Zwei-Tage-Offsites bewegen wenig. Veränderung kommt durch wiederholte kleine Akte in der richtigen Kadenz.</p>
+      </div>
+      <div class="principle">
+        <div class="ix">Prinzip 06</div>
+        <h3>In Wochen, nicht Quartalen</h3>
+        <p>Owner-CEOs entscheiden auf Wochen­ebene. Wir auch.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CASES TEASER -->
+<section class="cases" id="cases">
+  <div class="shell">
+    <div class="sec-title-row">
+      <div>
+        <div class="eyebrow"><span class="dot"></span>Ausgewählte Cases &amp; Zusammenarbeiten</div>
+        <h2 style="margin-top:12px;max-width:680px">Arbeit an den Stellen,<br/>an denen Klarheit,<br/>Fokus und Umsetzung zählen.</h2>
+        <p style="margin-top:18px;max-width:620px;font-size:16px">Wir arbeiten mit einer kleinen Anzahl Unternehmen und Institutionen, die vor realen Entscheidungen zu Wachstum und organisatorischer Ausrichtung stehen. <b>Unterschiedliche Situationen. Gleiche Prinzipien.</b></p>
+      </div>
+      <a class="link" href="cases.html">Alle Cases →</a>
+    </div>
+
+    <div class="quote-card">
+      <div class="qc-left">
+        <div class="qc-brand">Kemaro</div>
+        <div class="qc-meta">Produkt-Scale-up · Hardware &amp; Software</div>
+        <div class="qc-columns">
+          <div class="qc-col"><div class="lbl">Ausgangslage</div><div class="txt">Starker Produkt-Zug am Markt bei gleichzeitig wachsender organisatorischer Komplexität.</div></div>
+          <div class="qc-col focus"><div class="lbl">Fokus</div><div class="txt">Product-Market Fit, Führungs-Alignment und Umsetzungs­disziplin.</div></div>
+          <div class="qc-col outcome"><div class="lbl">Ergebnis</div><div class="txt">Klarere Prioritäten, stärkeres Alignment und ein solides Fundament für weiteres Wachstum.</div></div>
+        </div>
+      </div>
+      <div class="qc-right">
+        <blockquote>Boris hat uns von Anfang an verstanden und sofort erkannt, wo unsere Herausforderungen lagen und wie er uns am effizientesten helfen konnte. Er hat uns durch den Aufbau der Grundlagen geführt, die uns für starkes Wachstum bereit gemacht haben.</blockquote>
+        <div class="author">Martin Gadient <span>— CEO Kemaro</span></div>
+      </div>
+    </div>
+
+    <div class="quote-card sage">
+      <div class="qc-left">
+        <div class="qc-brand">Soeder</div>
+        <div class="qc-meta">Purpose-getriebene Consumer-Marke</div>
+        <div class="qc-columns">
+          <div class="qc-col"><div class="lbl">Ausgangslage</div><div class="txt">Purpose-getriebene Consumer-Marke, die Wachstum und zunehmende Komplexität gleichzeitig navigieren muss.</div></div>
+          <div class="qc-col focus"><div class="lbl">Fokus</div><div class="txt">OKR-Beratung, strategischer Fokus und Führungs-Alignment.</div></div>
+          <div class="qc-col outcome"><div class="lbl">Ergebnis</div><div class="txt">Klare Ziele, verbesserte Umsetzungs­disziplin, besseres Alignment über Teams hinweg.</div></div>
+        </div>
+      </div>
+      <div class="qc-right">
+        <blockquote>Mit Growth Unltd. haben wir die Werkzeuge erhalten, die wir brauchen, um effizient und nachhaltig zu wachsen.</blockquote>
+        <div class="author">Johan Olzon <span>— CEO &amp; Co-Founder Soeder</span></div>
+      </div>
+    </div>
+
+    <div class="quote-card">
+      <div class="qc-left">
+        <div class="qc-brand">mal ehrlich</div>
+        <div class="qc-meta">Plattform &amp; Community · Andrea Jansen</div>
+        <div class="qc-columns">
+          <div class="qc-col"><div class="lbl">Ausgangslage</div><div class="txt">Wachsende Medien-Community mit klarer Haltung, und der Frage, wie Ambition in Prioritäten und konsequente Umsetzung übersetzt wird.</div></div>
+          <div class="qc-col focus"><div class="lbl">Fokus</div><div class="txt">Schärfung der strategischen Ausrichtung und Optimierung des OKR-Systems.</div></div>
+          <div class="qc-col outcome"><div class="lbl">Ergebnis</div><div class="txt">Klare strategische Schwerpunkte, schärfere Ziele, ein System, das auf das fokussiert, was wirklich Wirkung entfaltet.</div></div>
+        </div>
+      </div>
+      <div class="qc-right">
+        <blockquote>Boris hat uns an den richtigen Stellen hinter­fragt und mehr als einmal gesagt: das ist noch nicht konkret genug. Er hat uns geholfen, den Fokus wiederzu­finden, und wir wissen jetzt, wo wir Nein sagen müssen.</blockquote>
+        <div class="author">Andrea Jansen <span>— Founder mal ehrlich</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CREDIBILITY / Für wen das passt -->
+<section class="resonates">
+  <div class="shell">
+    <div class="eyebrow" style="justify-content:center"><span class="dot"></span>Für wen das passt</div>
+    <h2 style="margin-top:18px">Klarheit statt Aktivität.<br/>Lernen statt Gewissheit.<br/>Fortschritt statt Fassade.</h2>
+    <p>Diese Cases treffen Führungs­menschen, die lieber klar sind als aktiv, lieber lernen als so tun, und lieber vorwärts­kommen als gut aussehen. Wer nach schnellen Antworten oder fertigen Rezepten sucht, ist hier nicht richtig. Wer reale Entscheidungen navigiert und einen ehrlichen Partner sucht. lasst uns reden.</p>
+  </div>
+</section>
+
+<!-- CONTENT TEASER -->
+<section class="content-teaser">
+  <div class="shell">
+    <div class="sec-title-row">
+      <div>
+        <div class="eyebrow"><span class="dot"></span>Wöchentlich</div>
+        <h2 style="margin-top:12px;max-width:620px">Was wir gerade denken.</h2>
+      </div>
+      <a class="link" href="blog.html">Alle Beiträge →</a>
+    </div>
+    <div class="posts">
+      <a class="post" href="article-template.html">
+        <div class="meta-row"><span class="cat">Human Signal · Boris</span><span>·</span><span>5 Min. Lesezeit</span></div>
+        <h3>Wenn Output billig wird, wird Urteilskraft teuer.</h3>
+        <p>Ein Kernkapitel aus „Human Signal" in kurzer Form: Warum AI die Arbeit verschiebt, aber nicht die Verantwortung, und was das für Führungsteams bedeutet.</p>
+        <span class="read">Weiterlesen →</span>
+      </a>
+      <a class="post" href="article-template.html">
+        <div class="meta-row"><span class="cat">AI Tech · Marc</span><span>·</span><span>6 Min. Lesezeit</span></div>
+        <h3>Claude, GPT, Gemini: Welches Modell wir wofür im Delivery-Alltag nutzen.</h3>
+        <p>Nüchterne Bestandsaufnahme aus der Praxis. mit konkreten Beispielen für Research, Synthese, Code und Customer-Analyse. Workflows statt Benchmarks.</p>
+        <span class="read">Weiterlesen →</span>
+      </a>
+      <a class="post" href="article-template.html">
+        <div class="meta-row"><span class="cat">PMF · Boris</span><span>·</span><span>4 Min. Lesezeit</span></div>
+        <h3>Product-Market Fit ist kein Zustand. er ist eine Verteidigungslinie.</h3>
+        <p>Die meisten Organisationen behandeln PMF wie ein erreichtes Gipfel-Foto. In Wahrheit ist es ein beweglicher Vertrag mit dem Markt.</p>
+        <span class="read">Weiterlesen →</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- TEAM PREVIEW -->
+<section class="team" id="team">
+  <div class="shell">
+    <div class="sec-title-row">
+      <div>
+        <div class="eyebrow"><span class="dot"></span>Wer wir sind</div>
+        <h2 style="margin-top:12px;max-width:620px">Zwei Partner. Ein Duo.<br/>Keine Pyramide.</h2>
+      </div>
+      <a class="link" href="team.html">Mehr über uns →</a>
+    </div>
+    <div class="duo-grid">
+      <div class="person">
+        <div class="portrait"><img src="/images/boris-manhart.jpg" alt="Boris Manhart"/></div>
+        <h3>Boris Manhart</h3>
+        <div class="role">Co-Founder · Leadership Sparring</div>
+        <p>Mehrfach-Gründer, Co-Founder eines Unicorns. Heute fokussiert auf Führungs­klarheit unter Druck. Innosuisse Expert Coach, sieht über 30 Gründer-Teams pro Jahr.</p>
+        <ul><li>Leadership</li><li>Decision Clarity</li><li>Organisations-Reboot</li><li>Gründer-Sparring</li></ul>
+      </div>
+      <div class="person">
+        <div class="portrait"><img src="/images/marc-pittner.jpg" alt="Marc Pittner"/></div>
+        <h3>Marc Pittner</h3>
+        <div class="role">Co-Founder · Handwerk &amp; Delivery</div>
+        <p>Tech-Builder mit Jahren in komplexen Organisationen. Übersetzt Strategie in Werkzeuge, Workflows und Plattformen. pragmatisch, implementierend, niemals als Theater.</p>
+        <ul><li>Delivery</li><li>Workflows</li><li>Plattform-Architektur</li><li>Coaching</li></ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FINAL CTA -->
+<section class="final" id="contact">
+  <div class="shell">
+    <div class="eyebrow" style="color:rgba(244,243,239,.65)"><span class="dot"></span>Nächster Schritt</div>
+    <h2 style="margin-top:14px">Drei Minuten reichen<br/>für den ersten ehrlichen Blick.</h2>
+    <p>Starten Sie mit dem Signal Check oben. Oder gehen Sie direkt zum Kontakt­formular. beide Wege führen zum selben Ziel: Klarheit, bevor die nächste grosse Wette platziert wird.</p>
+    <div class="final-ctas">
+      <a class="btn primary" href="contact.html">Kontakt aufnehmen <span class="arrow">→</span></a>
+      <a class="btn ghost" href="#signalCheck">Erst Signal Check machen</a>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="shell">
+    <div class="foot-grid">
+      <div class="foot-brand">
+        <svg class="logo-svg" viewBox="0 0 1308 168" xmlns="http://www.w3.org/2000/svg"><path d="M346.4 55c-13.7 5.4-20.4 20.3-15.9 35.6 3.6 12.5 14.9 19.3 30.2 18.1 14.9-1.1 23.2-9.1 24.1-23.2l.5-7.5H359v11h4.5c3.1 0 4.5.4 4.5 1.3 0 4.2-10 7.1-15 4.5-7.4-3.9-8.1-20-1.2-26.2 1.4-1.2 3.7-1.9 6.4-1.9 3.5 0 4.7.6 6.8 3.2 2.6 3 2.9 3.1 10.8 3.1h8.2l-.6-2.8c-1.5-6.3-5.8-11.4-12.4-14.8-5.4-2.7-18.2-2.9-24.6-.4m114.3-.4c-7.4 2.3-15 10.2-17.2 17.8-4 13.9 1.1 27.3 12.9 33.4 4.4 2.2 6.4 2.6 14.1 2.7 7.3 0 9.9-.4 14-2.3 10.2-4.7 14.6-11.4 15.3-23.3.6-10.7-1.4-16.5-8-22.4-8-7.1-19.7-9.4-31.1-5.9m14.8 12.8c4.5 1.9 6.5 6.1 6.5 13.6 0 10-3.1 14-11 14-14.3 0-14.5-28.2-.2-28.9.7-.1 2.8.5 4.7 1.3M392 81v27h17v-9.5c0-7.2.3-9.5 1.3-9.5.8 0 3.5 4.1 6.1 9.1 2.7 5 5.4 9.3 6 9.5.7.3 4.9.4 9.4.2l8-.3L434 97l-5.9-10.5 3.3-3c6.9-6.4 7.3-17.1.7-23.6-4.9-4.9-9.1-5.9-25.8-5.9H392zm26.8-12.8c.7.7 1.2 2.6 1.2 4.3 0 4.2-1.6 5.5-6.7 5.5H409V67h4.3c2.4 0 4.8.5 5.5 1.2m85.9.5c1.8 8.2 4.6 20.2 6.2 26.8l2.8 12 8.6.3 8.6.3 1-3.8c.5-2.1 2.2-9.2 3.7-15.7 2-8.5 3-11.4 3.5-10 .4 1 2.2 8.1 3.9 15.6l3.2 13.8h17.4l5.8-25.1c3.2-13.8 6.1-25.9 6.3-27 .5-1.8-.1-1.9-7.6-1.9-4.4 0-8.1.2-8.1.3 0 1.1-6.1 30.1-6.3 30.4-.2.2-1.9-6.5-3.8-14.9l-3.5-15.3-7.5-.3-7.6-.3-2.8 14.3c-1.5 7.9-3.1 14.8-3.4 15.5-.3.6-1.9-5.8-3.5-14.3l-3-15.4h-17.3zm74.3-8.2V67h14v41h17V67h14V54h-45zM630 81v27h18V87h15v21h18V54h-18v20h-15V54h-18zm74.2-7.3c.3 18.1.5 20.2 2.5 24 2.8 5.2 6.3 7.9 12.6 9.8 10.2 3 21.1 1.4 27.5-4.1 6.2-5.3 7.2-9.5 7.2-31.1V54h-17l-.1 16.7c0 10.3-.5 18.2-1.2 20.3-1.1 3.2-1.5 3.5-5.8 3.8-7.8.5-7.9.1-7.9-21.9V54h-18.2zM763 81v27h15.9l.3-15.5.3-15.6 8.5 15.5 8.5 15.5 8.3.1h8.2V54h-14.9l-.3 13.5-.3 13.5-7.2-13.3-7.1-13.2-10.1-.3-10.1-.3zm60 0v27h37V95h-19V54h-18zm35-20.5V67h13v41h18V67h14V54h-45zm51 20.4V108h13.2c16.8 0 23.4-1.7 29.4-7.4 9.1-8.9 10-29.1 1.6-38.3-6.1-6.6-9.9-7.7-27.9-8.1l-16.3-.4zm27-12.4c3.7 1.9 5.3 7 4.8 14.7-.6 7.5-3.4 10.8-10.2 11.5l-4.6.6V67h3.5c2 0 4.9.7 6.5 1.5m27.5 27c-6.3 6.2 1 16 9.4 12.5 2.9-1.2 5.1-4.6 5.1-8.1 0-3.3-4.4-6.9-8.5-6.9-2.5 0-4.4.8-6 2.5" fill="currentColor"/></svg>
+        <p>Strategie-Sparring, Führung und Implementierung. nah an Entscheidungen.</p>
+      </div>
+      <div>
+        <h5>Arbeit</h5>
+        <ul><li><a href="how-we-work.html">Wie wir arbeiten</a></li><li><a href="cases.html">Cases</a></li><li><a href="how-we-work.html#pricing">Preise</a></li></ul>
+      </div>
+      <div>
+        <h5>Über</h5>
+        <ul><li><a href="team.html">Team</a></li><li><a href="blog.html">Content</a></li><li><a href="contact.html">Kontakt</a></li></ul>
+      </div>
+      <div>
+        <h5>Kontakt</h5>
+        <ul>
+          <li><a data-email="hello|growthunltd.com">hello [at] growthunltd [dot] com</a></li>
+          <li>Zürich, Schweiz</li>
+          <li><a href="/llms.txt">llms.txt</a> · <a href="/context.md">context.md</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="foot-bottom">
+      <span>© 2026 Growth Unltd.</span>
+      <span><a href="privacy.html">Privacy Policy</a> · <a href="contact.html">Impressum</a></span>
+    </div>
+  </div>
+</footer>
+
+<!-- Cookie Banner -->
+<div class="cookie-banner" id="cookie-banner" role="dialog" aria-label="Cookie-Einstellungen">
+  <p>Wir nutzen nur essentielle Cookies, um Grundfunktionen sicherzustellen. Keine Tracker, kein Marketing-Pixel. Mehr in unserer <a href="privacy.html">Privacy-Policy</a>.</p>
+  <div class="cookie-actions">
+    <button class="accept">OK, verstanden</button>
+    <button class="reject">Nur essentielle</button>
+  </div>
+</div>
+
+<script src="app.js?v=7"></script>
+</body>
+</html>

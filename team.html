@@ -1,12 +1,13 @@
 <!doctype html>
 <html lang="de">
 <head>
-<meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+<meta charset="utf-8"/><link rel="icon" type="image/x-icon" href="favicon.ico"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
 <title>Über uns — Growth Unltd.</title>
 <meta name="description" content="Boris Manhart und Marc Pittner — zwei gleichberechtigte Partner. Strategie und Delivery aus einer Hand." />
 <link rel="preconnect" href="https://rsms.me/"/>
 <link rel="stylesheet" href="https://rsms.me/inter/inter.css"/>
-<link rel="stylesheet" href="styles.css?v=9"/>
+<link rel="stylesheet" href="styles.css?v=11"/>
 </head>
 <body>
 <header class="nav">
@@ -22,7 +23,7 @@
       <li><a href="blog.html">Content</a></li>
     </ul>
     <div class="nav-divider"></div>
-    <span class="lang">EN <span style="opacity:.4">/</span> <b>DE</b></span>
+    <span class="lang"><a href="en/team.html" onclick="try{localStorage.setItem('gu-lang','en')}catch(e){}" style="color:var(--stone);text-decoration:none">EN</a> <span style="opacity:.4">/</span> <b>DE</b></span>
     <a class="nav-cta" href="contact.html">Kontakt aufnehmen</a>
     <button type="button" class="nav-hamburger" id="nav-hamburger" aria-label="Menü"><span></span><span></span><span></span></button>
   </div>
@@ -131,53 +132,45 @@
     </div>
 
     <div class="testimonial-grid">
-      <blockquote class="testimonial-card">
-        <p>Boris has helped me see the gaps in the company through strategic planning. As a result, I have filled these gaps with great people who are amazing at what they do. Much better than myself!</p>
-        <footer>
-          <div class="t-avatar" style="background:linear-gradient(135deg,#7B8EC8,#111)">DP</div>
-          <div class="t-meta"><b>Dr. Dan Plews</b><span>Sports Scientist · Triathlon World Record Holder</span></div>
-        </footer>
-      </blockquote>
+      <div class="t-card">
+        <p class="t-quote">„Boris hat mir geholfen, die Lücken im Unternehmen durch strategische Planung sichtbar zu machen. Diese Lücken habe ich anschliessend mit grossartigen Menschen gefüllt — die das viel besser können als ich selbst."</p>
+        <div class="t-author">
+          <div class="t-pic"><img src="images/dan-plews.jpg" alt="Dr. Dan Plews" onerror="this.outerHTML='&lt;div class=\'t-fallback\'&gt;DP&lt;/div&gt;'"/></div>
+          <div class="t-info"><span class="t-name">Dr. Dan Plews</span><span class="t-role">Applied Sports Scientist · Triathlon World Record Holder</span></div>
+        </div>
+      </div>
 
-      <blockquote class="testimonial-card">
-        <p>With Boris, we have received the tools we need to grow efficiently and sustainably.</p>
-        <footer>
-          <div class="t-avatar" style="background:linear-gradient(135deg,#E05A28,#7B8EC8)">JO</div>
-          <div class="t-meta"><b>Johan Olzon</b><span>Founder Soeder</span></div>
-        </footer>
-      </blockquote>
+      <div class="t-card">
+        <p class="t-quote">„Mit Boris haben wir die Werkzeuge erhalten, die wir brauchen, um effizient und nachhaltig zu wachsen."</p>
+        <div class="t-author">
+          <div class="t-pic"><img src="images/johan-olzon.jpg" alt="Johan Olzon" onerror="this.outerHTML='&lt;div class=\'t-fallback\'&gt;JO&lt;/div&gt;'"/></div>
+          <div class="t-info"><span class="t-name">Johan Olzon</span><span class="t-role">Founder Soeder</span></div>
+        </div>
+      </div>
 
-      <blockquote class="testimonial-card">
-        <p>Boris helped us to gain clarity on goals and strategy and how this trickles down to tasks &amp; deliverables. Within one year, we changed for the better, and the whole team can now use Boris's tools and knowledge and run with it independently.</p>
-        <footer>
-          <div class="t-avatar" style="background:linear-gradient(135deg,#5d72b3,#E05A28)">SW</div>
-          <div class="t-meta"><b>Sebastian Weber</b><span>CEO &amp; Founder INSCYD</span></div>
-        </footer>
-      </blockquote>
+      <div class="t-card">
+        <p class="t-quote">„Boris hat uns geholfen, Klarheit über Ziele und Strategie zu gewinnen — und wie sich das bis in Aufgaben und Deliverables durchträgt. Innerhalb eines Jahres haben wir uns zum Besseren verändert, und das gesamte Team kann jetzt mit Boris' Werkzeugen und Wissen eigenständig weiterarbeiten."</p>
+        <div class="t-author">
+          <div class="t-pic"><img src="images/sebastian-weber.jpg" alt="Sebastian Weber" onerror="this.outerHTML='&lt;div class=\'t-fallback\'&gt;SW&lt;/div&gt;'"/></div>
+          <div class="t-info"><span class="t-name">Sebastian Weber</span><span class="t-role">CEO &amp; Founder INSCYD</span></div>
+        </div>
+      </div>
 
-      <blockquote class="testimonial-card">
-        <p>Boris hat uns von Anfang an verstanden und sofort erkannt, wo unsere Herausforderungen lagen und wie er uns am effizientesten helfen konnte.</p>
-        <footer>
-          <div class="t-avatar" style="background:linear-gradient(135deg,#111,#7B8EC8)">MG</div>
-          <div class="t-meta"><b>Martin Gadient</b><span>CEO Kemaro</span></div>
-        </footer>
-      </blockquote>
+      <div class="t-card">
+        <p class="t-quote">„Boris hat uns von Anfang an verstanden und sofort erkannt, wo unsere Herausforderungen lagen und wie er uns am effizientesten helfen konnte."</p>
+        <div class="t-author">
+          <div class="t-pic"><img src="images/martin-gadient.jpg" alt="Martin Gadient" onerror="this.outerHTML='&lt;div class=\'t-fallback\'&gt;MG&lt;/div&gt;'"/></div>
+          <div class="t-info"><span class="t-name">Martin Gadient</span><span class="t-role">CEO Kemaro</span></div>
+        </div>
+      </div>
 
-      <blockquote class="testimonial-card">
-        <p>Boris hat uns an den richtigen Stellen hinter­fragt und mehr als einmal gesagt: das ist noch nicht konkret genug. Er hat uns geholfen, den Fokus wiederzu­finden, und wir wissen jetzt, wo wir Nein sagen müssen.</p>
-        <footer>
-          <div class="t-avatar" style="background:linear-gradient(135deg,#E05A28,#5d72b3)">AJ</div>
-          <div class="t-meta"><b>Andrea Jansen</b><span>Founder mal ehrlich</span></div>
-        </footer>
-      </blockquote>
-
-      <blockquote class="testimonial-card">
-        <p>Platzhalter — wird durch das nächste Kunden­zitat ersetzt, sobald geliefert.</p>
-        <footer>
-          <div class="t-avatar" style="background:linear-gradient(135deg,#7B8EC8,#E05A28);opacity:.55">+</div>
-          <div class="t-meta"><b>Platzhalter</b><span>Rolle &amp; Unternehmen</span></div>
-        </footer>
-      </blockquote>
+      <div class="t-card">
+        <p class="t-quote">„Boris hat uns an den richtigen Stellen hinterfragt und mehr als einmal gesagt: das ist noch nicht konkret genug. Er hat uns geholfen, den Fokus wiederzufinden, und wir wissen jetzt, wo wir Nein sagen müssen."</p>
+        <div class="t-author">
+          <div class="t-pic"><img src="images/andrea-jansen.jpg" alt="Andrea Jansen" onerror="this.outerHTML='&lt;div class=\'t-fallback\'&gt;AJ&lt;/div&gt;'"/></div>
+          <div class="t-info"><span class="t-name">Andrea Jansen</span><span class="t-role">Founder mal ehrlich</span></div>
+        </div>
+      </div>
     </div>
   </div>
 </section>
@@ -232,6 +225,6 @@
   </div>
 </div>
 
-<script src="app.js?v=9"></script>
+<script src="app.js?v=11"></script>
 </body>
 </html>

@@ -1,3 +1,18 @@
+/* ============ Browser Language Auto-Detection ============ */
+(function(){
+  // Only run on root pages (not /en/), only on first visit
+  const path = window.location.pathname;
+  const isInEn = path.indexOf('/en/') === 0 || path.indexOf('/en/') !== -1;
+  const hasChosenLang = (function(){ try { return localStorage.getItem('gu-lang'); } catch(e){ return null; }})();
+  if(isInEn || hasChosenLang) return;
+  const lang = (navigator.language || navigator.userLanguage || 'de').toLowerCase();
+  if(lang.indexOf('en') === 0){
+    // Build /en/ equivalent path
+    const file = path.split('/').pop() || 'index.html';
+    window.location.replace('/en/' + file);
+  }
+})();
+
 /* ============ Signal / Noise Canvas (Hero) ============ */
 (function(){
   const cv = document.getElementById('signalCanvas');

@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Sicherheit kommt nicht durch mehr Planung — Growth Unltd.</title>
+<meta name="description" content="Niemand glaubt der Geschäftsleitung, die behauptet zu wissen, wo das Unternehmen in drei Jahren steht. Drei Disziplinen, die das Risiko flach halten."/>
+<link rel="preconnect" href="https://rsms.me/"/>
+<link rel="stylesheet" href="https://rsms.me/inter/inter.css"/>
+<link rel="stylesheet" href="styles.css?v=10"/>
+</head>
+<body>
+<header class="nav">
+  <div class="shell nav-in">
+    <a href="index.html" class="nav-logo" aria-label="Growth Unltd."><svg class="logo-svg" viewBox="0 0 1308 168" xmlns="http://www.w3.org/2000/svg"><path d="M346.4 55c-13.7 5.4-20.4 20.3-15.9 35.6 3.6 12.5 14.9 19.3 30.2 18.1 14.9-1.1 23.2-9.1 24.1-23.2l.5-7.5H359v11h4.5c3.1 0 4.5.4 4.5 1.3 0 4.2-10 7.1-15 4.5-7.4-3.9-8.1-20-1.2-26.2 1.4-1.2 3.7-1.9 6.4-1.9 3.5 0 4.7.6 6.8 3.2 2.6 3 2.9 3.1 10.8 3.1h8.2l-.6-2.8c-1.5-6.3-5.8-11.4-12.4-14.8-5.4-2.7-18.2-2.9-24.6-.4m114.3-.4c-7.4 2.3-15 10.2-17.2 17.8-4 13.9 1.1 27.3 12.9 33.4 4.4 2.2 6.4 2.6 14.1 2.7 7.3 0 9.9-.4 14-2.3 10.2-4.7 14.6-11.4 15.3-23.3.6-10.7-1.4-16.5-8-22.4-8-7.1-19.7-9.4-31.1-5.9m14.8 12.8c4.5 1.9 6.5 6.1 6.5 13.6 0 10-3.1 14-11 14-14.3 0-14.5-28.2-.2-28.9.7-.1 2.8.5 4.7 1.3M392 81v27h17v-9.5c0-7.2.3-9.5 1.3-9.5.8 0 3.5 4.1 6.1 9.1 2.7 5 5.4 9.3 6 9.5.7.3 4.9.4 9.4.2l8-.3L434 97l-5.9-10.5 3.3-3c6.9-6.4 7.3-17.1.7-23.6-4.9-4.9-9.1-5.9-25.8-5.9H392zm26.8-12.8c.7.7 1.2 2.6 1.2 4.3 0 4.2-1.6 5.5-6.7 5.5H409V67h4.3c2.4 0 4.8.5 5.5 1.2m85.9.5c1.8 8.2 4.6 20.2 6.2 26.8l2.8 12 8.6.3 8.6.3 1-3.8c.5-2.1 2.2-9.2 3.7-15.7 2-8.5 3-11.4 3.5-10 .4 1 2.2 8.1 3.9 15.6l3.2 13.8h17.4l5.8-25.1c3.2-13.8 6.1-25.9 6.3-27 .5-1.8-.1-1.9-7.6-1.9-4.4 0-8.1.2-8.1.3 0 1.1-6.1 30.1-6.3 30.4-.2.2-1.9-6.5-3.8-14.9l-3.5-15.3-7.5-.3-7.6-.3-2.8 14.3c-1.5 7.9-3.1 14.8-3.4 15.5-.3.6-1.9-5.8-3.5-14.3l-3-15.4h-17.3zm74.3-8.2V67h14v41h17V67h14V54h-45zM630 81v27h18V87h15v21h18V54h-18v20h-15V54h-18zm74.2-7.3c.3 18.1.5 20.2 2.5 24 2.8 5.2 6.3 7.9 12.6 9.8 10.2 3 21.1 1.4 27.5-4.1 6.2-5.3 7.2-9.5 7.2-31.1V54h-17l-.1 16.7c0 10.3-.5 18.2-1.2 20.3-1.1 3.2-1.5 3.5-5.8 3.8-7.8.5-7.9.1-7.9-21.9V54h-18.2zM763 81v27h15.9l.3-15.5.3-15.6 8.5 15.5 8.5 15.5 8.3.1h8.2V54h-14.9l-.3 13.5-.3 13.5-7.2-13.3-7.1-13.2-10.1-.3-10.1-.3zm60 0v27h37V95h-19V54h-18zm35-20.5V67h13v41h18V67h14V54h-45zm51 20.4V108h13.2c16.8 0 23.4-1.7 29.4-7.4 9.1-8.9 10-29.1 1.6-38.3-6.1-6.6-9.9-7.7-27.9-8.1l-16.3-.4zm27-12.4c3.7 1.9 5.3 7 4.8 14.7-.6 7.5-3.4 10.8-10.2 11.5l-4.6.6V67h3.5c2 0 4.9.7 6.5 1.5m27.5 27c-6.3 6.2 1 16 9.4 12.5 2.9-1.2 5.1-4.6 5.1-8.1 0-3.3-4.4-6.9-8.5-6.9-2.5 0-4.4.8-6 2.5" fill="currentColor"/></svg></a>
+    <div class="nav-spacer"></div>
+    <ul>
+      <li><a href="how-we-work.html">Wie wir arbeiten</a></li>
+      <li><a href="cases.html">Cases</a></li>
+      <li><a href="team.html">Über uns</a></li>
+      <li><a href="blog.html" class="active">Content</a></li>
+    </ul>
+    <div class="nav-divider"></div>
+    <span class="lang">EN <span style="opacity:.4">/</span> <b>DE</b></span>
+    <a class="nav-cta" href="contact.html">Kontakt aufnehmen</a>
+    <button type="button" class="nav-hamburger" id="nav-hamburger" aria-label="Menü"><span></span><span></span><span></span></button>
+  </div>
+</header>
+
+<div class="mobile-menu" id="mobile-menu" aria-hidden="true">
+  <div class="mob-head">
+    <a href="index.html" class="nav-logo"><svg class="logo-svg" viewBox="0 0 1308 168" xmlns="http://www.w3.org/2000/svg"><path d="M346.4 55c-13.7 5.4-20.4 20.3-15.9 35.6 3.6 12.5 14.9 19.3 30.2 18.1 14.9-1.1 23.2-9.1 24.1-23.2l.5-7.5H359v11h4.5c3.1 0 4.5.4 4.5 1.3 0 4.2-10 7.1-15 4.5-7.4-3.9-8.1-20-1.2-26.2 1.4-1.2 3.7-1.9 6.4-1.9 3.5 0 4.7.6 6.8 3.2 2.6 3 2.9 3.1 10.8 3.1h8.2l-.6-2.8c-1.5-6.3-5.8-11.4-12.4-14.8-5.4-2.7-18.2-2.9-24.6-.4m114.3-.4c-7.4 2.3-15 10.2-17.2 17.8-4 13.9 1.1 27.3 12.9 33.4 4.4 2.2 6.4 2.6 14.1 2.7 7.3 0 9.9-.4 14-2.3 10.2-4.7 14.6-11.4 15.3-23.3.6-10.7-1.4-16.5-8-22.4-8-7.1-19.7-9.4-31.1-5.9m14.8 12.8c4.5 1.9 6.5 6.1 6.5 13.6 0 10-3.1 14-11 14-14.3 0-14.5-28.2-.2-28.9.7-.1 2.8.5 4.7 1.3M392 81v27h17v-9.5c0-7.2.3-9.5 1.3-9.5.8 0 3.5 4.1 6.1 9.1 2.7 5 5.4 9.3 6 9.5.7.3 4.9.4 9.4.2l8-.3L434 97l-5.9-10.5 3.3-3c6.9-6.4 7.3-17.1.7-23.6-4.9-4.9-9.1-5.9-25.8-5.9H392zm26.8-12.8c.7.7 1.2 2.6 1.2 4.3 0 4.2-1.6 5.5-6.7 5.5H409V67h4.3c2.4 0 4.8.5 5.5 1.2m85.9.5c1.8 8.2 4.6 20.2 6.2 26.8l2.8 12 8.6.3 8.6.3 1-3.8c.5-2.1 2.2-9.2 3.7-15.7 2-8.5 3-11.4 3.5-10 .4 1 2.2 8.1 3.9 15.6l3.2 13.8h17.4l5.8-25.1c3.2-13.8 6.1-25.9 6.3-27 .5-1.8-.1-1.9-7.6-1.9-4.4 0-8.1.2-8.1.3 0 1.1-6.1 30.1-6.3 30.4-.2.2-1.9-6.5-3.8-14.9l-3.5-15.3-7.5-.3-7.6-.3-2.8 14.3c-1.5 7.9-3.1 14.8-3.4 15.5-.3.6-1.9-5.8-3.5-14.3l-3-15.4h-17.3zm74.3-8.2V67h14v41h17V67h14V54h-45zM630 81v27h18V87h15v21h18V54h-18v20h-15V54h-18zm74.2-7.3c.3 18.1.5 20.2 2.5 24 2.8 5.2 6.3 7.9 12.6 9.8 10.2 3 21.1 1.4 27.5-4.1 6.2-5.3 7.2-9.5 7.2-31.1V54h-17l-.1 16.7c0 10.3-.5 18.2-1.2 20.3-1.1 3.2-1.5 3.5-5.8 3.8-7.8.5-7.9.1-7.9-21.9V54h-18.2zM763 81v27h15.9l.3-15.5.3-15.6 8.5 15.5 8.5 15.5 8.3.1h8.2V54h-14.9l-.3 13.5-.3 13.5-7.2-13.3-7.1-13.2-10.1-.3-10.1-.3zm60 0v27h37V95h-19V54h-18zm35-20.5V67h13v41h18V67h14V54h-45zm51 20.4V108h13.2c16.8 0 23.4-1.7 29.4-7.4 9.1-8.9 10-29.1 1.6-38.3-6.1-6.6-9.9-7.7-27.9-8.1l-16.3-.4zm27-12.4c3.7 1.9 5.3 7 4.8 14.7-.6 7.5-3.4 10.8-10.2 11.5l-4.6.6V67h3.5c2 0 4.9.7 6.5 1.5m27.5 27c-6.3 6.2 1 16 9.4 12.5 2.9-1.2 5.1-4.6 5.1-8.1 0-3.3-4.4-6.9-8.5-6.9-2.5 0-4.4.8-6 2.5" fill="currentColor"/></svg></a>
+    <button type="button" class="mob-close" id="mob-close" aria-label="Schliessen">×</button>
+  </div>
+  <nav>
+    <a href="how-we-work.html">Wie wir arbeiten</a><a href="cases.html">Cases</a><a href="team.html">Über uns</a><a href="blog.html">Content</a>
+  </nav>
+  <div class="mob-foot"><a class="nav-cta" href="contact.html">Kontakt aufnehmen</a></div>
+</div>
+
+<article class="article">
+  <div class="article-shell">
+    <div class="meta-row">
+      <span class="cat">Aus der Arbeit · Boris</span><span>·</span>
+      <span>6. Mai 2026</span><span>·</span>
+      <span>5 Min. Lesezeit</span>
+    </div>
+
+    <h1>Sicherheit kommt nicht durch mehr Planung. Sondern durch schnelleres Lernen.</h1>
+
+    <p class="lede">Niemand glaubt der Geschäftsleitung, die behauptet zu wissen, wo das Unternehmen in drei Jahren steht. Wir bauen den Plan trotzdem. Drei Disziplinen, die das Risiko flach halten, ohne dass sich die Firma als Startup verkleiden muss.</p>
+
+    <div class="body">
+      <p>In den meisten Geschäftsleitungssitzungen, die ich in den letzten zwölf Monaten gesehen habe, lief eine Variante derselben Szene ab. Jemand präsentiert einen Plan über drei Jahre. Alle nicken. Niemand glaubt ihn wirklich. Sechs Monate später wird derselbe Plan in der Klausur leise korrigiert.</p>
+
+      <p>Das ist nicht peinlich. Das ist die Realität.</p>
+
+      <p>Was peinlich wäre: aus dieser Erfahrung den Schluss zu ziehen, man bräuchte einen besseren Plan. Detaillierter, mit mehr Szenarien, mehr Freigabestufen. Dieser Reflex fühlt sich nach Sicherheit an. Er ist sie nicht. Er verzögert nur den Moment, in dem die Geschäftsleitung merkt, dass sie sich getäuscht hat. Der Verlust kommt selten als Pleite. Häufig als zwei Jahre Stagnation, die in der Bilanz unauffällig wirken.</p>
+
+      <h2>Was «Unsicherheit» tatsächlich heisst</h2>
+
+      <p>Unsicherheit ist kein Sturm, der vorbeizieht. Sie ist die Bedingung, unter der heute alle wesentlichen Investitionen gemacht werden. Märkte verschieben sich schneller als jeder Plan. Kundenverhalten kippt innerhalb von Quartalen. Wettbewerber tauchen aus angrenzenden Feldern auf, in denen vor einem Jahr niemand war.</p>
+
+      <p>Die ehrliche Antwort darauf ist nicht: besser planen. Sondern: schneller lernen, ob der Plan stimmt.</p>
+
+      <p>Das ist die Frage, mit der Startups seit zwanzig Jahren operieren. Nicht weil Gründerinnen und Gründer klüger sind. Sondern weil sie es sich nicht leisten konnten, sechs Monate auf die Bestätigung einer Hypothese zu warten. Sie hätten es nicht überlebt.</p>
+
+      <p>Mittelständische Firmen mit gesunden Bilanzen können es sich auch nicht leisten. Sie merken es nur später.</p>
+
+      <h2>Risiko stapelt sich</h2>
+
+      <p>Der entscheidende Punkt ist mathematisch, nicht philosophisch. Wenn Sie ohne Validierung Schritte machen, summiert sich das Risiko mit jedem Schritt. Sie investieren in eine neue Region auf Basis einer Annahme. Sie bringen ein neues Produkt heraus auf Basis von zwei. Sie bauen ein Team auf Basis von drei. Wenn auch nur eine der Annahmen falsch war, steht alles, was darauf folgt, auf einem geliehenen Fundament.</p>
+
+      <p>Mit regelmässigen Tests passiert das Gegenteil. Jeder Schritt löst eine Annahme auf, bevor die nächste darauf gesetzt wird. Das Risiko bleibt flach, auch wenn das Umfeld unberechenbar ist.</p>
+
+      <blockquote>Der Unterschied ist nicht, ob Sie Risiken eingehen. Beide Modelle gehen Risiken ein. Der Unterschied ist, ob das Risiko sichtbar wird, bevor es teuer ist.</blockquote>
+
+      <h2>Drei Disziplinen, die in der Geschäftsleitung tragen</h2>
+
+      <p><b>Erste Disziplin: jede strategische Annahme bekommt eine Falsifikationszahl.</b> Nicht «wir glauben, dass mehr Kundinnen und Kunden in der DACH-Region das Produkt wollen», sondern «in den nächsten neunzig Tagen sehen wir mindestens 40 qualifizierte Anfragen aus DACH, oder wir korrigieren». Diese Zahl muss vor dem Test feststehen, sonst werden Ergebnisse im Nachhinein erklärt, statt entschieden.</p>
+
+      <p><b>Zweite Disziplin: Tests brauchen eine verantwortliche Person und ein Datum, kein Gremium.</b> Wenn ein Test nicht in vier bis sechs Wochen ein Ergebnis liefert, ist es kein Test. Es ist ein Vorhaben mit einem Wunsch. Die häufigste Falle in Firmen mit 30 bis 300 Mitarbeitenden: aus einem Test wird ein Lenkungsausschuss, der den Lernzyklus von vier Wochen auf vier Quartale streckt.</p>
+
+      <p><b>Dritte Disziplin: getrennte Sprache für Annahme und Tatsache.</b> In jeder Sitzung, die Sie ab nächster Woche führen, könnten Sie das einführen. Wer eine Aussage macht, sagt entweder «wir haben gemessen» oder «wir vermuten». Beide sind erlaubt. Aber sie werden nicht mehr vermischt. Diese eine sprachliche Disziplin verändert die Qualität von Entscheidungen mehr als jede neue Methode.</p>
+
+      <h2>Was schiefgeht, wenn man es nicht tut</h2>
+
+      <p>Der häufigste Satz, den ich nach vier oder fünf Jahren in einer Firma höre, ist nicht «wir hätten anders priorisieren müssen». Es ist: «wir hätten viel früher gemerkt, dass diese eine Annahme nicht stimmt».</p>
+
+      <p>Das frühe Merken hat einen Namen. Es heisst Test. Es ist nicht jung, nicht modisch, nicht startup-spezifisch. Es ist der Mechanismus, mit dem Organisationen Realität prüfen, bevor sie sie in der GuV buchen.</p>
+
+      <h2>Was diese Woche zu tun ist</h2>
+
+      <p>Schreiben Sie die fünf wichtigsten Annahmen Ihrer aktuellen Strategie auf eine Seite. Nicht zehn, fünf.</p>
+
+      <p>Markieren Sie für jede, ob Sie sie in den letzten neunzig Tagen mit Verhalten echter Kundinnen und Kunden geprüft haben. Nicht mit einem Workshop. Nicht mit einer Umfrage. Mit Verhalten.</p>
+
+      <p>Bei jeder Annahme, bei der die Antwort Nein ist: Wer ist verantwortlich, bis wann gibt es ein Ergebnis, welche Zahl entscheidet?</p>
+
+      <p>Sie werden vermutlich feststellen, dass mindestens zwei der fünf Annahmen seit Monaten ungeprüft im Plan sitzen. Das ist normal. Es ist auch der Grund, warum die Frage am Anfang nicht ist, ob Sie sich Tests leisten können. Sondern ob Sie sich leisten können, sie nicht zu fahren.</p>
+    </div>
+
+    <div class="article-author">
+      <div class="avatar"><img src="images/boris-manhart.jpg" alt="Boris Manhart"/></div>
+      <div>
+        <div class="name">Boris Manhart</div>
+        <div class="role">Co-Founder Growth Unltd. · Autor „Human Signal"</div>
+      </div>
+    </div>
+
+    <div style="margin-top:50px;padding-top:30px;border-top:1px solid rgba(17,17,17,.1);display:flex;gap:14px;flex-wrap:wrap;align-items:center;justify-content:space-between">
+      <a class="btn ghost" href="blog.html">← Alle Beiträge</a>
+      <a class="btn primary" href="contact.html">Gespräch anfragen <span class="arrow">→</span></a>
+    </div>
+  </div>
+</article>
+
+<footer>
+  <div class="shell">
+    <div class="foot-grid">
+      <div class="foot-brand">
+        <svg class="logo-svg" viewBox="0 0 1308 168" xmlns="http://www.w3.org/2000/svg"><path d="M346.4 55c-13.7 5.4-20.4 20.3-15.9 35.6 3.6 12.5 14.9 19.3 30.2 18.1 14.9-1.1 23.2-9.1 24.1-23.2l.5-7.5H359v11h4.5c3.1 0 4.5.4 4.5 1.3 0 4.2-10 7.1-15 4.5-7.4-3.9-8.1-20-1.2-26.2 1.4-1.2 3.7-1.9 6.4-1.9 3.5 0 4.7.6 6.8 3.2 2.6 3 2.9 3.1 10.8 3.1h8.2l-.6-2.8c-1.5-6.3-5.8-11.4-12.4-14.8-5.4-2.7-18.2-2.9-24.6-.4m114.3-.4c-7.4 2.3-15 10.2-17.2 17.8-4 13.9 1.1 27.3 12.9 33.4 4.4 2.2 6.4 2.6 14.1 2.7 7.3 0 9.9-.4 14-2.3 10.2-4.7 14.6-11.4 15.3-23.3.6-10.7-1.4-16.5-8-22.4-8-7.1-19.7-9.4-31.1-5.9m14.8 12.8c4.5 1.9 6.5 6.1 6.5 13.6 0 10-3.1 14-11 14-14.3 0-14.5-28.2-.2-28.9.7-.1 2.8.5 4.7 1.3M392 81v27h17v-9.5c0-7.2.3-9.5 1.3-9.5.8 0 3.5 4.1 6.1 9.1 2.7 5 5.4 9.3 6 9.5.7.3 4.9.4 9.4.2l8-.3L434 97l-5.9-10.5 3.3-3c6.9-6.4 7.3-17.1.7-23.6-4.9-4.9-9.1-5.9-25.8-5.9H392zm26.8-12.8c.7.7 1.2 2.6 1.2 4.3 0 4.2-1.6 5.5-6.7 5.5H409V67h4.3c2.4 0 4.8.5 5.5 1.2m85.9.5c1.8 8.2 4.6 20.2 6.2 26.8l2.8 12 8.6.3 8.6.3 1-3.8c.5-2.1 2.2-9.2 3.7-15.7 2-8.5 3-11.4 3.5-10 .4 1 2.2 8.1 3.9 15.6l3.2 13.8h17.4l5.8-25.1c3.2-13.8 6.1-25.9 6.3-27 .5-1.8-.1-1.9-7.6-1.9-4.4 0-8.1.2-8.1.3 0 1.1-6.1 30.1-6.3 30.4-.2.2-1.9-6.5-3.8-14.9l-3.5-15.3-7.5-.3-7.6-.3-2.8 14.3c-1.5 7.9-3.1 14.8-3.4 15.5-.3.6-1.9-5.8-3.5-14.3l-3-15.4h-17.3zm74.3-8.2V67h14v41h17V67h14V54h-45zM630 81v27h18V87h15v21h18V54h-18v20h-15V54h-18zm74.2-7.3c.3 18.1.5 20.2 2.5 24 2.8 5.2 6.3 7.9 12.6 9.8 10.2 3 21.1 1.4 27.5-4.1 6.2-5.3 7.2-9.5 7.2-31.1V54h-17l-.1 16.7c0 10.3-.5 18.2-1.2 20.3-1.1 3.2-1.5 3.5-5.8 3.8-7.8.5-7.9.1-7.9-21.9V54h-18.2zM763 81v27h15.9l.3-15.5.3-15.6 8.5 15.5 8.5 15.5 8.3.1h8.2V54h-14.9l-.3 13.5-.3 13.5-7.2-13.3-7.1-13.2-10.1-.3-10.1-.3zm60 0v27h37V95h-19V54h-18zm35-20.5V67h13v41h18V67h14V54h-45zm51 20.4V108h13.2c16.8 0 23.4-1.7 29.4-7.4 9.1-8.9 10-29.1 1.6-38.3-6.1-6.6-9.9-7.7-27.9-8.1l-16.3-.4zm27-12.4c3.7 1.9 5.3 7 4.8 14.7-.6 7.5-3.4 10.8-10.2 11.5l-4.6.6V67h3.5c2 0 4.9.7 6.5 1.5m27.5 27c-6.3 6.2 1 16 9.4 12.5 2.9-1.2 5.1-4.6 5.1-8.1 0-3.3-4.4-6.9-8.5-6.9-2.5 0-4.4.8-6 2.5" fill="currentColor"/></svg>
+        <p>Strategie-Sparring, Führung und Implementierung, nah an Entscheidungen.</p>
+      </div>
+      <div><h5>Arbeit</h5><ul><li><a href="how-we-work.html">Wie wir arbeiten</a></li><li><a href="cases.html">Cases</a></li></ul></div>
+      <div><h5>Über</h5><ul><li><a href="team.html">Über uns</a></li><li><a href="blog.html">Content</a></li><li><a href="contact.html">Kontakt</a></li></ul></div>
+      <div><h5>Kontakt</h5><ul><li><a data-email="hello|growthunltd.com">hello [at] growthunltd [dot] com</a></li><li>Zürich, Schweiz</li><li><a href="/llms.txt">llms.txt</a></li></ul></div>
+    </div>
+    <div class="foot-bottom"><span>© 2026 Growth Unltd.</span><span><a href="privacy.html">Privacy Policy</a></span></div>
+  </div>
+</footer>
+<script src="app.js?v=10"></script>
+</body>
+</html>

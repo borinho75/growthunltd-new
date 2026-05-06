@@ -1,12 +1,13 @@
 <!doctype html>
 <html lang="de">
 <head>
-<meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+<meta charset="utf-8"/><link rel="icon" type="image/x-icon" href="favicon.ico"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
 <title>Content — Growth Unltd.</title>
 <meta name="description" content="Wöchentliche Texte aus der Arbeit nah an Entscheidungen." />
 <link rel="preconnect" href="https://rsms.me/"/>
 <link rel="stylesheet" href="https://rsms.me/inter/inter.css"/>
-<link rel="stylesheet" href="styles.css?v=9"/>
+<link rel="stylesheet" href="styles.css?v=11"/>
 </head>
 <body>
 <header class="nav">
@@ -22,7 +23,7 @@
       <li><a href="blog.html" class="active">Content</a></li>
     </ul>
     <div class="nav-divider"></div>
-    <span class="lang">EN <span style="opacity:.4">/</span> <b>DE</b></span>
+    <span class="lang"><a href="en/blog.html" onclick="try{localStorage.setItem('gu-lang','en')}catch(e){}" style="color:var(--stone);text-decoration:none">EN</a> <span style="opacity:.4">/</span> <b>DE</b></span>
     <a class="nav-cta" href="contact.html">Kontakt aufnehmen</a>
     <button type="button" class="nav-hamburger" id="nav-hamburger" aria-label="Menü"><span></span><span></span><span></span></button>
   </div>
@@ -47,100 +48,33 @@
 
 <section class="page-hero">
   <div class="shell">
-    <div class="eyebrow"><span class="dot"></span>Content · 14-tägig</div>
+    <div class="eyebrow"><span class="dot"></span>Content</div>
     <h1>Was wir gerade<br/>denken und ausprobieren.</h1>
-    <p>Alle zwei Wochen ein Text. Mal kurz, mal lang. Themen alternieren zwischen Führungs­handwerk, Organisations-Mustern und neuen Werkzeugen, die wir in der Praxis eingesetzt haben. Keine Buzzwords, keine Thought-Leadership-Phrasen.</p>
+    <p>Texte aus der laufenden Arbeit. Mal kurz, mal lang. Keine Buzzwords, keine Thought-Leadership-Phrasen.</p>
   </div>
 </section>
 
 <section class="blog-index">
   <div class="shell">
-    <div class="blog-filter">
-      <button class="chip active">Alle</button>
-      <button class="chip">Human Signal</button>
-      <button class="chip">PMF</button>
-      <button class="chip">AI Tech</button>
-      <button class="chip">Werkzeug</button>
-      <button class="chip">Aus der Arbeit</button>
-    </div>
-
     <div class="blog-grid">
-      <a class="post" href="article-template.html">
-        <div class="meta-row"><span class="cat">Human Signal · Boris</span><span>·</span><span>24. Apr 2026</span></div>
-        <h3>Wenn Output billig wird, wird Urteilskraft teuer.</h3>
-        <p>Ein Kernkapitel aus „Human Signal" in kurzer Form: Warum AI die Arbeit verschiebt, aber nicht die Verantwortung, und was das für Führungs­teams bedeutet.</p>
+      <a class="post" href="article-pmf-defensibility.html">
+        <div class="meta-row"><span class="cat">PMF · Boris</span><span>·</span><span>6. Mai 2026</span></div>
+        <h3>Ihr Produkt ist heute im Fit. In zwölf Monaten vielleicht nicht mehr.</h3>
+        <p>Warum der Vertrag zwischen Produkt und Markt jedes Quartal neu zur Verhandlung steht. Und woran sich Verteidigungslinien festmachen lassen, die ein Wettbewerber nicht in einem Wochenende reproduziert.</p>
         <span class="read">Weiterlesen →</span>
       </a>
-      <a class="post" href="article-template.html">
-        <div class="meta-row"><span class="cat">AI Tech · Marc</span><span>·</span><span>17. Apr 2026</span></div>
-        <h3>Claude, GPT, Gemini: Welches Modell wir wofür im Delivery-Alltag nutzen.</h3>
-        <p>Eine nüchterne Bestandsaufnahme aus der Praxis. mit konkreten Beispielen für Research, Synthese, Code und Customer-Analyse. Keine Benchmarks, sondern Workflows.</p>
+      <a class="post" href="article-kmu-experimente.html">
+        <div class="meta-row"><span class="cat">Aus der Arbeit · Boris</span><span>·</span><span>6. Mai 2026</span></div>
+        <h3>Sicherheit kommt nicht durch mehr Planung. Sondern durch schnelleres Lernen.</h3>
+        <p>Niemand glaubt der Geschäftsleitung, die behauptet zu wissen, wo das Unternehmen in drei Jahren steht. Drei Disziplinen, die das Risiko flach halten, ohne dass sich die Firma als Startup verkleiden muss.</p>
         <span class="read">Weiterlesen →</span>
       </a>
-      <a class="post" href="article-template.html">
-        <div class="meta-row"><span class="cat">PMF · Boris</span><span>·</span><span>10. Apr 2026</span></div>
-        <h3>Product-Market Fit ist kein Zustand. er ist eine Verteidigungs­linie.</h3>
-        <p>Die meisten Organisationen behandeln PMF wie ein erreichtes Gipfel-Foto. In Wahrheit ist es ein beweglicher Vertrag mit dem Markt. Was das für Ihr Operating Model bedeutet.</p>
+      <a class="post" href="article-workshop-illusion.html">
+        <div class="meta-row"><span class="cat">Human Signal · Boris</span><span>·</span><span>6. Mai 2026</span></div>
+        <h3>Acht begeisterte Mitarbeitende sind kein Auftrag.</h3>
+        <p>Innovationsworkshops produzieren Interesse. Verträge, Pilotprojekte und verbindliche Vorab-Bestellungen produzieren Verbindlichkeit. Drei Fragen, die zwischen den beiden trennen.</p>
         <span class="read">Weiterlesen →</span>
       </a>
-      <a class="post" href="article-template.html">
-        <div class="meta-row"><span class="cat">AI Tech · Marc</span><span>·</span><span>03. Apr 2026</span></div>
-        <h3>Agents in der Delivery: Was wir im letzten Quartal wirklich produktiv gemacht haben.</h3>
-        <p>Drei konkrete Agent-Setups, die wir bei Kundenprojekten laufen haben. inklusive Fehl­versuche. Von Research-Agents über Meeting-Zusammen­fassungen bis zu internen Wissens-Bots.</p>
-        <span class="read">Weiterlesen →</span>
-      </a>
-      <a class="post" href="article-template.html">
-        <div class="meta-row"><span class="cat">Human Signal · Boris</span><span>·</span><span>27. Mär 2026</span></div>
-        <h3>Signal vs. Noise: Wie Owner-CEOs in der ersten Woche trennen.</h3>
-        <p>Aus dem Diagnose-Kapitel: eine Methode, mit der wir in den ersten Tagen jeder Mandat-Arbeit Signal von Lärm trennen. Low-Tech, mit Block und Gespräch.</p>
-        <span class="read">Weiterlesen →</span>
-      </a>
-      <a class="post" href="article-template.html">
-        <div class="meta-row"><span class="cat">AI Tech · Marc</span><span>·</span><span>20. Mär 2026</span></div>
-        <h3>Warum wir n8n, Zapier und Make nebeneinander betreiben, und wann was.</h3>
-        <p>Kleine Übersicht aus der eigenen Werkstatt: welche Automatisierungs-Plattform wir wann einsetzen. Mit konkreten Use-Case-Mustern und Kosten/Nutzen-Abwägung.</p>
-        <span class="read">Weiterlesen →</span>
-      </a>
-      <a class="post" href="article-template.html">
-        <div class="meta-row"><span class="cat">PMF · Boris</span><span>·</span><span>13. Mär 2026</span></div>
-        <h3>Die drei Warnsignale, dass Ihr PMF erodiert. bevor die Zahlen es zeigen.</h3>
-        <p>Leading Indicators statt Lagging Indicators. Wenn Sales-Zyklen sich dehnen, Kunden andere Fragen stellen, oder Ihr Team über andere Themen diskutiert. habt Ihr ein Jahr Vorlauf. Nutzt ihn.</p>
-        <span class="read">Weiterlesen →</span>
-      </a>
-      <a class="post" href="article-template.html">
-        <div class="meta-row"><span class="cat">AI Tech · Marc</span><span>·</span><span>06. Mär 2026</span></div>
-        <h3>Model Context Protocol: Was MCP für die Delivery bei Kunden verändert.</h3>
-        <p>MCP klingt nach Protokoll-Arbeit. ist aber praktisch ein Werkzeug, das unseren Kunden­zugriff auf ihre eigenen Systeme völlig verändert. Ein Arbeits­bericht mit Beispielen.</p>
-        <span class="read">Weiterlesen →</span>
-      </a>
-      <a class="post" href="article-template.html">
-        <div class="meta-row"><span class="cat">Human Signal · Boris</span><span>·</span><span>27. Feb 2026</span></div>
-        <h3>Das Kapitel, das ich dreimal umgeschrieben habe, und warum.</h3>
-        <p>Ein Werkstatt-Bericht zum Buch. Warum das Kapitel über „Intuition unter Unsicherheit" schwer zu schreiben war, und was ich dabei selbst gelernt habe.</p>
-        <span class="read">Weiterlesen →</span>
-      </a>
-      <a class="post" href="article-template.html">
-        <div class="meta-row"><span class="cat">AI Tech · Marc</span><span>·</span><span>20. Feb 2026</span></div>
-        <h3>Drei AI-Tools, die 2026 in unserer Toolchain wirklich etwas verändert haben.</h3>
-        <p>Keine Hype-Liste. Drei Werkzeuge, die wir zwei Monate lang produktiv getestet haben. mit konkreten Stellen, an denen sie gewonnen haben (und einigen, an denen sie verloren haben).</p>
-        <span class="read">Weiterlesen →</span>
-      </a>
-      <a class="post" href="article-template.html">
-        <div class="meta-row"><span class="cat">PMF · Boris</span><span>·</span><span>13. Feb 2026</span></div>
-        <h3>Wenn der Markt sich verschiebt: Vier Fragen, bevor Ihr Ihr Produkt anfasst.</h3>
-        <p>Aus der Diagnose-Praxis. Bevor die Roadmap umgeworfen wird, lohnt eine nüchterne Prüfung, was sich wirklich verändert hat, und was sich nur anfühlt, als hätte es sich verändert.</p>
-        <span class="read">Weiterlesen →</span>
-      </a>
-      <a class="post" href="article-template.html">
-        <div class="meta-row"><span class="cat">Aus der Arbeit</span><span>·</span><span>06. Feb 2026</span></div>
-        <h3>Der Moment, in dem eine Transformation kippt, und was wir dann machen.</h3>
-        <p>Jede 90-Day-Transformation hat eine kritische Woche, meist zwischen Tag 35 und Tag 50. Was wir aus der Praxis gelernt haben, wie man sie übersteht.</p>
-        <span class="read">Weiterlesen →</span>
-      </a>
-    </div>
-
-    <div style="margin-top:50px;text-align:center">
-      <a class="btn ghost" href="#">Ältere Beiträge</a>
     </div>
   </div>
 </section>
@@ -202,6 +136,6 @@
   </div>
 </div>
 
-<script src="app.js?v=9"></script>
+<script src="app.js?v=11"></script>
 </body>
 </html>
